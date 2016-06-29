@@ -1,5 +1,5 @@
 01
-張韶涵-隱形的翅膀,http://www.junjue.com.tw/Taiwan/18.mp4
+Lulu黃路梓茵-腿之歌,http://www.junjue.com.tw/Taiwan/MV/22.mp4
 
 02
 日本動漫,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
@@ -11,22 +11,22 @@
 華研娛樂台,http://59.120.43.180:17567
 
 05
-CNN國際新聞,http://210.201.54.102/live2/cnnnews_sp.sdp/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CNNBQ2.5M
+CNN國際新聞,http://210.201.54.102/live2/cnnnews_sp.sdp/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CNNBQ2.5M 
 
 06
-民視HD,http://161.202.144.253/app/tw-vms-channel_aac/playlist.m3u8#http://video01-tok.streamup.com/app/tw-vms-channel_aac/playlist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line43-D0101.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line43-D0101.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line43-D0101.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line43-D0101.m3u8#http://58.99.33.2:1935/liveedge/live_5_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://210.201.54.102/live2/ftvw_sp.sdp/playlist.m3u8#http://59.120.43.180:17334#http://aka04.fansmecast.com/ch005/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twmshd
+民視HD, http://161.202.144.253/app/tw-vms-channel_aac/playlist.m3u8#http://video01-tok.streamup.com/app/tw-vms-channel_aac/playlist.m3u8#http://161.202.144.253/app/tw-vms-channel_aac/chunklist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line43-D0101.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line43-D0101.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line43-D0101.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line43-D0101.m3u8#http://58.99.33.2:1935/liveedge/live_5_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://210.201.54.102/live2/ftvw_sp.sdp/playlist.m3u8#http://59.120.43.180:17334#http://aka04.fansmecast.com/ch005/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twmshd 
 
 07
 人間衛視,http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8#http://210.201.54.102/live2/live_sp.sdp/playlist.m3u8#http://aka02.fansmecast.com/ch100/playlist.m3u8
 
 08
-台視HD,http://aka08.fansmecast.com/ch007/playlist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line44-D0102.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line44-D0102.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line44-D0102.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line44-D0102.m3u8#http://video01-tok.streamup.com/app/aiamor-lis-channel_aac/playlist.m3u8#http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8#p2p://207.238.82.38:9926/51aea8370002dc6ce83e43c11c6234f6#rtmp://211.72.13.195/livetv/live07#http://59.120.43.180:17822#http://161.202.144.253/app/aiamor-lis-channel_aac/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtshd#http://161.202.144.253/app/aiamor-lis-channel_aac/playlist.m3u8
+台視HD,http://161.202.144.253/app/aiamor-lis-channel_aac/playlist.m3u8#http://210.61.67.76:9981/stream/channelid/4?ticket=B2B8CD41B4EF2006F3DC43AC478D74463626559E#http://aka08.fansmecast.com/ch007/playlist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line44-D0102.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line44-D0102.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line44-D0102.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line44-D0102.m3u8#http://video01-tok.streamup.com/app/aiamor-lis-channel_aac/playlist.m3u8#http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8#p2p://207.238.82.38:9926/51aea8370002dc6ce83e43c11c6234f6#rtmp://211.72.13.195/livetv/live07#http://59.120.43.180:17822#http://161.202.144.253/app/aiamor-lis-channel_aac/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtshd
 
 09
-大愛,http://aka23.fansmecast.com/ch010/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://210.201.54.102/live2/Di_sp.sdp/playlist.m3u8#http://59.120.43.180:17572#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twda
+大愛,http://aka23.fansmecast.com/ch010/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str17-A0102.m3u8#http://210.201.54.102/live2/Di_sp.sdp/playlist.m3u8#http://59.120.43.180:17572#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twda 
 
 10
-中視HD,http://59.120.43.180:17837#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twzshd#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line45-D0103.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line45-D0103.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line45-D0103.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line45-D0103.m3u8#rtmp://211.72.13.195/livetv/live08#http://aka.fansmecast.com/ch006/playlist.m3u8#http://aka09.fansmecast.com/ch009/playlist.m3u8#http://aka.fansmecast.com/ch006/playlist.m3u8
+中視HD,http://59.120.43.180:17837#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twzshd#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line45-D0103.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line45-D0103.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line45-D0103.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line45-D0103.m3u8#rtmp://211.72.13.195/livetv/live08#http://aka.fansmecast.com/ch006/playlist.m3u8#http://aka09.fansmecast.com/ch009/playlist.m3u8#http://aka.fansmecast.com/ch006/playlist.m3u8 
 
 11
 霹靂臺灣,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str39-C0240.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str39-C0240.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str39-C0240.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str39-C0240.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str39-C0240.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str39-C0240.m3u8#http://aka20.fansmecast.com/ch012/playlist.m3u8
@@ -35,16 +35,16 @@ CNN國際新聞,http://210.201.54.102/live2/cnnnews_sp.sdp/playlist.m3u8#http://
 華視HD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line46-D0104.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line46-D0104.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line46-D0104.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line46-D0104.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line46-D0104.m3u8#http://58.99.33.2:1935/liveedge/live_11_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#rtmp://211.72.13.195/livetv/live09#http://161.202.144.253/app/tw-ctss-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/tw-ctss-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/tw-ctss-stream_aac/chunklist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhshd
 
 13
-公視,http://161.202.144.253/app/tvb8s-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/tvb8s-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/tvb8s-stream_aac/chunklist.m3u8#http://mobile.ccdntech.com/live/_definst_/vod111_Live/live2/playlist.m3u8
+公視,http://210.61.67.76:9981/stream/channelid/2?ticket=D21A3844A947BBD3408C4E1E748B57CC905DE077#http://161.202.144.253/app/tvb8s-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/tvb8s-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/tvb8s-stream_aac/chunklist.m3u8#http://mobile.ccdntech.com/live/_definst_/vod111_Live/live2/playlist.m3u8
 
 14
-公視HD,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgshd#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line47-D0205.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line47-D0205.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line47-D0205.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line47-D0205.m3u8
+公視HD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line47-D0205.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line47-D0205.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line47-D0205.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line47-D0205.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twgshd
 
 15
 GoodTV好消息,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8# http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-2.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8#http://aka23.fansmecast.com/ch015/playlist.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u815#http://210.201.54.102/live2/goodtv-1.sdp/playlist.m3u8
 
 16
-原住民頻道,http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8#http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/playlist.m3u8#http://waaarplive03-lh.akamaihd.net/i/titv_1@191631/index_3000_av-p.m3u8#http://210.201.54.102/live2/tcch09/playlist.m3u8#http://aka23.fansmecast.com/ch016/playlist.m3u8
+原住民頻道,http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8#http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/playlist.m3u8#http://waaarplive03-lh.akamaihd.net/i/titv_1@191631/index_3000_av-p.m3u8#http://210.201.54.102/live2/tcch09/playlist.m3u8#http://aka23.fansmecast.com/ch016/playlist.m3u8#http://210.61.67.76:9981/stream/channelid/1?ticket=9A6154D2613304F161964B20B5E619AC57AEBA07
 
 17
 客家電視台,http://video01-tok.streamup.com/app/usportss-stream_aac/playlist.m3u8#http://aka05.fansmecast.com/ch090/playlist.m3u8
@@ -56,16 +56,16 @@ GoodTV好消息,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-
 Discovery頻道,http://58.99.33.2:1935/liveedge/live_19_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
 20
-TLC 旅遊生活,http://www.junjue.com.tw/Taiwan/NO.mp4
+●TLC旅遊生活,p2p://106.186.121.94:8260/5607a4ef000cd48a58c6e35e3f0f3190#http://www.junjue.com.tw/Taiwan/NO.mp4
 
 21
-動物星球頻道,http://58.99.33.2:1935/liveedge/live_12_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+動物星球頻道,http://58.99.33.2:1935/liveedge/live_12_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf 
 
 22
-CN卡通頻道,http://aka11.fansmecast.com/ch022/playlist.m3u8#http://210.201.54.102/live2/cncartoon_sp.sdp/playlist.m3u8#http://58.99.33.4:1935/liveedge/live_22_3.stream/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twcnkt#http://59.120.43.180:17867
+CN卡通頻道,http://59.120.43.180:17867#http://aka11.fansmecast.com/ch022/playlist.m3u8#http://210.201.54.102/live2/cncartoon_sp.sdp/playlist.m3u8#http://58.99.33.4:1935/liveedge/live_22_3.stream/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twcnkt
 
 23
-迪士尼卡通,http://www.junjue.com.tw/Taiwan/NO.mp4
+迪士尼卡通junior,http://aka29.fansmecast.com/ch074/playlist.m3u8#http://www.junjue.com.tw/Taiwan/NO.mp4
 
 24
 MOMO親子台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str18-A0103.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str18-A0103.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str18-A0103.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str18-A0103.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str18-A0103.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str18-A0103.m3u8#http://aka24.fansmecast.com/ch024/playlist.m3u8
@@ -77,22 +77,22 @@ MOMO親子台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/st
 緯來綜合台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str20-A0205.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str20-A0205.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str20-A0205.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str20-A0205.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str20-A0205.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str20-A0205.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str20-A0205.m3u8#http://aka25.fansmecast.com/ch026/playlist.m3u8
 
 27
-八大第一台HD, http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://58.99.33.2:1935/liveedge/live_27_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka24.fansmecast.com/ch027/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twbdzh
+八大第一台, http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str21-A0206.m3u8#http://58.99.33.2:1935/liveedge/live_27_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka24.fansmecast.com/ch027/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twbdzh
 
 28
-八大綜合台HD,http://aka16.fansmecast.com/ch031/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://58.99.33.2:1935/liveedge/live_28_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://59.120.43.180:17274#http://210.201.54.102/live2/gtv_sp.sdp/playlist.m3u8#http://aka16.fansmecast.com/ch028/playlist.m3u8
+八大綜合台,http://aka16.fansmecast.com/ch031/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str22-A0207.m3u8#http://58.99.33.2:1935/liveedge/live_28_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://59.120.43.180:17274#http://210.201.54.102/live2/gtv_sp.sdp/playlist.m3u8#http://aka16.fansmecast.com/ch028/playlist.m3u8
 
 29
-三立臺灣台HD,http://bcoveliveios-i.akamaihd.net/hls/live/241982/4338955585001_1/master.m3u8#http://bcoveliveios-i.akamaihd.net/hls/live/241982/4338955585001_1/master.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://aka19.fansmecast.com/ch029/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twsltw
+三立臺灣台HD,http://bcoveliveios-i.akamaihd.net/hls/live/241982/4338955585001_1/master.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str23-A0208.m3u8#http://aka19.fansmecast.com/ch029/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twsltw
 
 30
-三立都會台HD,http://bcoveliveios-i.akamaihd.net/hls/live/241983/4338955585001_1/master.m3u8#http://bcoveliveios-i.akamaihd.net/hls/live/241983/4338955585001_1/master.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/kbo61-E0301.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/kbo61-E0301.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/kbo61-E0301.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/kbo61-E0301.m3u8
+三立都會台HD,http://bcoveliveios-i.akamaihd.net/hls/live/241981/4338955585001_1/master.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/kbo61-E0301.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/kbo61-E0301.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/kbo61-E0301.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/kbo61-E0301.m3u8
 
 31
-衛視中文台HD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/kbo62-E0302.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/kbo62-E0302.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/kbo62-E0302.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/kbo62-E0302.m3u8http://58.99.33.2:1935/liveedge/live_31_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://video01-tok.streamup.com/app/rzo58654s-stream_aac/chunklist.m3u8#http://video01-tok.streamup.com/app/sbe25970s-stream_aac/playlist.m3u8
+衛視中文台HD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/kbo62-E0302.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/kbo62-E0302.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/kbo62-E0302.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/kbo62-E0302.m3u8#http://58.99.33.2:1935/liveedge/live_31_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://video01-tok.streamup.com/app/rzo58654s-stream_aac/chunklist.m3u8#http://video01-tok.streamup.com/app/sbe25970s-stream_aac/playlist.m3u8 
 
-32
-東森綜合台,http://aka14.fansmecast.com/ch032/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://58.99.33.2:1935/liveedge/live_32_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdszh
+32 
+東森綜合台,http://aka14.fansmecast.com/ch032/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str24-A0309.m3u8#http://58.99.33.2:1935/liveedge/live_32_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdszh 
 
 33
 東森超視,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str25-A0310.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str25-A0310.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str25-A0310.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str25-A0310.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str25-A0310.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str25-A0310.m3u8#http://aka12.fansmecast.com/ch038/playlist.m3u8
@@ -112,20 +112,20 @@ MOMO購物1台,http://flv.ccdntech.com/live/_definst_/mp4:vod169_Live/live/chunk
 38
 年代MUCH台,http://58.99.33.2:1935/liveedge/live_38_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
-39
+39 
 中天娛樂台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str27-A0312.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str27-A0312.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str27-A0312.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str27-A0312.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str27-A0312.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str27-A0312.m3u8#http://aka13.fansmecast.com/ch039/playlist.m3u8
 
 40
 東森戲劇台,http://aka26.fansmecast.com/ch040/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str28-A0413.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str28-A0413.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str28-A0413.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str28-A0413.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str28-A0413.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str28-A0413.m3u8
 
-41
+41 
 八大戲劇台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str29-A0414.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str29-A0414.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str29-A0414.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str29-A0414.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str29-A0414.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str29-A0414.m3u8#http://aka16.fansmecast.com/ch041/playlist.m3u8#http://58.99.33.2:1935/liveedge/live_41_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
 42
-TVBS歡樂HD,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://aka22.fansmecast.com/ch042/playlist.m3u8#rtmp://211.72.13.195/livetv/live06
+TVBS歡樂HD,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str30-A0415.m3u8#http://aka22.fansmecast.com/ch042/playlist.m3u8#rtmp://211.72.13.195/livetv/live06 
 
 43
-緯來戲劇台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://58.99.33.2:1935/liveedge/live_43_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka13.fansmecast.com/ch043/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwlxj
+緯來戲劇台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str31-A0416.m3u8#http://58.99.33.2:1935/liveedge/live_43_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka13.fansmecast.com/ch043/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwlxj 
 
 44
 高點綜合台,http://www.junjue.com.tw/Taiwan/NO.mp4
@@ -142,37 +142,37 @@ TVBS歡樂HD,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str
 48
 壹電視綜合台, http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str36-C0237.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str36-C0237.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str36-C0237.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str36-C0237.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str36-C0237.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str36-C0237.m3u8#http://aka22.fansmecast.com/ch046/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twydszh
 
-49
-壹電視新聞台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8#http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist.m3u8#http://58.99.33.2:1935/liveedge/live_49_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka22.fansmecast.com/ch049/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8#http://161.202.144.253/app/vm-ns-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/vm-ns-stream_aac/playlist.m3u8#http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+49 
+壹電視新聞台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8#http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str49-B0119.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/playlist.m3u8#http://58.99.33.2:1935/liveedge/live_49_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka22.fansmecast.com/ch049/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8#http://161.202.144.253/app/vm-ns-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/vm-ns-stream_aac/playlist.m3u8#http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8 
 
 50
-年代新聞HD,http://video01-lon.streamup.com/app/ppsjji1231s-stream_aac/chunklist.m3u8#http://video01-tok.streamup.com/app/wjj-eras-channel_aac/playlist.m3u8#http://video01-tok.streamup.com/app/wjj-eras-channel_aac/chunklist.m3u8#http://video10-lax.streamup.com/app/wjj-eras-channel_aac/playlist.m3u8?Android#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/win42-D0302.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/win42-D0302.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/win42-D0302.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/win42-D0302.m3u8#http://58.99.33.2:1935/liveedge/live_50_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+年代新聞HD,http://video01-tok.streamup.com/app/wjj-eras-channel_aac/chunklist.m3u8#http://video01-tok.streamup.com/app/wjj-eras-channel_aac/chunklist.m3u8#http://video01-lon.streamup.com/app/ppsjji1231s-stream_aac/chunklist.m3u8#http://video10-lax.streamup.com/app/wjj-eras-channel_aac/playlist.m3u8?Android#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/win42-D0302.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/win42-D0302.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/win42-D0302.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/win42-D0302.m3u8#http://58.99.33.2:1935/liveedge/live_50_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
 51
-東森新聞HD,http://60.199.188.151/HLS/WG_ETTV-N/index.m3u8#http://aka17.fansmecast.com/ch051/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://210.201.54.102/live2/swente/playlist.m3u8#http://220.228.49.10/live/fet003/index.m3u8#http://59.120.43.180:17817#http://58.99.33.2:1935/liveedge/live_51_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#rtmp://211.72.13.195/livetv/live04#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsxw
+東森新聞HD,http://60.199.188.151/HLS/WG_ETTV-N/index.m3u8#http://aka17.fansmecast.com/ch051/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str03-B0120.m3u8#http://210.201.54.102/live2/swente/playlist.m3u8#http://220.228.49.10/live/fet003/index.m3u8?1467117772355&BB7DD47C16384629023D7EA363292225D9D980FE53FB7B387A3721BAE8E5D319#http://59.120.43.180:17817#http://58.99.33.2:1935/liveedge/live_51_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#rtmp://211.72.13.195/livetv/live04#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsxw
 
-52
-中天新聞台HD,http://220.228.49.10/live/fet006/index.m3u8#http://aka19.fansmecast.com/ch054/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twztxw#http://210.201.54.102/live2/ctinews/playlist.m3u8#http://live1.wowotv.tw/live2/ctinews/chunklist.m3u8
+52 
+中天新聞台HD,http://220.228.49.10/live/fet006/index.m3u8?1467117772355&BB7DD47C16384629023D7EA363292225D9D980FE53FB7B387A3721BAE8E5D319#http://aka19.fansmecast.com/ch054/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str04-B0221.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twztxw#http://210.201.54.102/live2/ctinews/playlist.m3u8#http://live1.wowotv.tw/live2/ctinews/chunklist.m3u8
 
 53
-民視新聞台HD,http://220.228.49.10/live/fet002/index.m3u8#http://220.228.38.10/live/fet002/chunklist.m3u8#http://aka04.fansmecast.com/ch053/playlist.m3u8#http://aka04.fansmecast.com/ch053/playlist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line48-D0206.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line48-D0206.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line48-D0206.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line48-D0206.m3u8#http://59.120.43.180:17355#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?k=fed1ac11df8399da50cc5e854a7ae4d2#http://210.201.54.102/live2/ftvn_sp.sdp/playlist.m3u8
+民視新聞台HD,http://220.228.49.10/live/fet002/index.m3u8?1467117772355&BB7DD47C16384629023D7EA363292225D9D980FE53FB7B387A3721BAE8E5D319#http://220.228.38.10/live/fet002/ index.m3u8?1467117772355&BB7DD47C16384629023D7EA363292225D9D980FE53FB7B387A3721BAE8E5D319#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?k=fed1ac11df8399da50cc5e854a7ae4d2#http://aka04.fansmecast.com/ch053/playlist.m3u8#http://aka04.fansmecast.com/ch053/playlist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/line48-D0206.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/line48-D0206.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/line48-D0206.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/line48-D0206.m3u8#http://59.120.43.180:17355#http://210.201.54.102/live2/ftvn_sp.sdp/playlist.m3u8
 
 54
-三立新聞台HD,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://210.201.54.101:1935/live2/setnews/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twslxw#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8
+三立新聞台HD,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://210.201.54.101:1935/live2/setnews/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twslxw#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str05-B0222.m3u8 
 
-55
-TVBS新聞台HD,http://220.228.49.10/live/fet005/index.m3u8#http://60.199.188.151/HLS/WG_TVBS-N/index.m3u8#http://220.228.38.10/live/fet005/chunklist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://aka15.fansmecast.com/ch055/playlist.m3u8#rtmp://211.72.13.195/livetv/live01#http://59.120.43.180:17914#http://210.201.54.102/live2/tvbsnhd/playlist.m3u8#http://59.120.43.180:17834#http://59.120.43.180:17914
+55 
+TVBS新聞台HD,http://220.228.49.10/live/fet005/index.m3u8?1467117772355&BB7DD47C16384629023D7EA363292225D9D980FE53FB7B387A3721BAE8E5D319#http://60.199.188.151/HLS/WG_TVBS-N/index.m3u8#http://220.228.38.10/live/fet005/chunklist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str06-B0223.m3u8#http://aka15.fansmecast.com/ch055/playlist.m3u8#rtmp://211.72.13.195/livetv/live01#http://59.120.43.180:17914#http://210.201.54.102/live2/tvbsnhd/playlist.m3u8#http://59.120.43.180:17834#http://59.120.43.180:17914
 
 56
 TVBS HD,http://aka15.fansmecast.com/ch056/playlist.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str07-B0224.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str07-B0224.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str07-B0224.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str07-B0224.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str07-B0224.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str07-B0224.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str07-B0224.m3u8#http://59.120.43.180:17833#http://59.120.43.180:17833#http://64.140.164.226:8066/HLS/live/226008/index.m3u8?mid=64&pwd=mars
 57
-東森財經新聞,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://220.228.49.10/live/fet004/index.m3u8#http://59.120.43.180:17879#http://59.120.43.180:17879#http://210.201.54.102/live2/etfin/playlist.m3u8#http://aka18.fansmecast.com/ch057/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdscj#http://live1.wowotv.tw/live2/etfin/chunklist.m3u8
+東森財經新聞,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str08-B0325.m3u8#http://220.228.49.10/live/fet004/index.m3u8?1467117772355&BB7DD47C16384629023D7EA363292225D9D980FE53FB7B387A3721BAE8E5D319#http://59.120.43.180:17879#http://59.120.43.180:17879#http://210.201.54.102/live2/etfin/playlist.m3u8#http://aka18.fansmecast.com/ch057/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdscj#http://live1.wowotv.tw/live2/etfin/chunklist.m3u8
 
 58
 非凡新聞HD,http://60.199.188.151/HLS/WG_USTV-N/index.m3u8#http://aka26.fansmecast.com/ch058/playlist.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str09-B0326.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str09-B0326.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str09-B0326.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str09-B0326.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str09-B0326.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str09-B0326.m3u8#http://161.202.144.253/app/wgg-ubns-channel_aac/playlist.m3u8#http://video01-tok.streamup.com/app/wgg-ubns-channel_aac/playlist.m3u8#http://59.120.43.180:17365#http://59.120.43.180:17365#http://210.201.54.102/live2/ustvn_sp.sdp/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twffxw#http://live1.wowotv.tw/live2/ustvn_sp.sdp/chunklist.m3u8
 
 59
-寰宇新聞台, http://aka32.fansmecast.com/ch086/playlist.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/50GNews.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/50GNews.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/50GNews.m3u8
+寰宇新聞台,http://aka32.fansmecast.com/ch086/playlist.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/50GNews.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/50GNews.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/50GNews.m3u8
 
 60
 壹電視電影台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str37-C0238.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str37-C0238.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str37-C0238.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str37-C0238.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str37-C0238.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str37-C0238.m3u8#http://aka20.fansmecast.com/ch059/playlist.m3u8#http://aka20.fansmecast.com/ch059/playlist.m3u8
@@ -190,12 +190,12 @@ TVBS HD,http://aka15.fansmecast.com/ch056/playlist.m3u8#http://60.250.74.252:813
 龍祥時代,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str12-B0429.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str12-B0429.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str12-B0429.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str12-B0429.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str12-B0429.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str12-B0429.m3u8#http://aka14.fansmecast.com/ch061/playlist.m3u8
 
 65
-HBO HD電影,http://58.99.33.2:1935/liveedge/live_65_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://116.77.76.7:5011/nl.ts?id=HBOBQ2.5M#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhbo#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/kbo63-E0303.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/kbo63-E0303.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/kbo63-E0303.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/kbo63-E0303.m3u8#http://aka29.fansmecast.com/ch065/playlist.m3u8
+HBO電影,http://58.99.33.2:1935/liveedge/live_65_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://116.77.76.7:5011/nl.ts?id=HBOBQ2.5M#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhbo 
 
 66
 東森洋片台,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str13-B0430.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str13-B0430.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str13-B0430.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str13-B0430.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str13-B0430.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str13-B0430.m3u8#http://58.99.33.2:1935/liveedge/live_66_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka26.fansmecast.com/ch066/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twdsyp
 
-67
+67 
 AXN洋片,http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str14-B0431.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str14-B0431.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str14-B0431.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str14-B0431.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str14-B0431.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str14-B0431.m3u8#http://58.99.33.2:1935/liveedge/live_84_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka20.fansmecast.com/ch067/playlist.m3u8
 
 68
@@ -220,7 +220,7 @@ FOX體育,rtmp://kv3.ts33.net/sat/tv731#rtmp://kv3.ts33.net/sat/tv732#http://64.
 FOX體育2,rtmp://kv3.ts33.net/sat/tv741#rtmp://kv3.ts33.net/sat/tv742
 
 75
-緯來日本台, http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8 #http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://58.99.33.2:1935/liveedge/live_75_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka18.fansmecast.com/ch044/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwlrb
+緯來日本台, http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8 #http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str33-C0134.m3u8#http://58.99.33.2:1935/liveedge/live_75_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf#http://aka18.fansmecast.com/ch044/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwlrb 
 
 76
 ANIMAX, http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str35-C0136.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str35-C0136.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str35-C0136.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str35-C0136.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str35-C0136.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str35-C0136.m3u8#http://aka24.fansmecast.com/ch034/playlist.m3u8
@@ -244,13 +244,13 @@ JET綜合台,http://58.99.33.2:1935/liveedge/live_45_1.stream/chunklist_wlive.m3
 好萊塢,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_350&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 83
-FOX體育3HD,http://aka28.fansmecast.com/ch073/playlist.m3u8#http://220.130.149.128:19358/live/ch3-1/playlist.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8
+FOX體育3HD,http://aka28.fansmecast.com/ch073/playlist.m3u8#http://220.130.149.128:19358/live/ch3-1/playlist.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht57-E0205.m3u8 
 
 84
 TVB8,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8#http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8#http://116.77.76.7:5011/nl.ts?id=TVB8BQ2.5M
 
 85
-愛爾達體育,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht60-E0208.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht60-E0208.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht60-E0208.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht60-E0208.m3u8
+愛爾達體育,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht60-E0208.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht60-E0208.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht60-E0208.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht60-E0208.m3u8 
 
 86
 三立國際台,http://aka19.fansmecast.com/ch030/playlist.m3u8
@@ -277,7 +277,7 @@ EYE TV旅遊HD,http://www.anchoredinversion.com/tv/ds/twtv.php?id=tweyely
 好消息2,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8# http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-2.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-1.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str16-A0101.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str16-A0101.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str16-A0101.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str16-A0101.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str16-A0101.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str16-A0101.m3u8#http://210.201.54.102/live2/goodtv-2.sdp/playlist.m3u8#http://aka12.fansmecast.com/ch089/playlist.m3u8
 
 94
-星衛娛樂台, http://www.junjue.com.tw/Taiwan/NO.mp4
+星衛娛樂台,http://www.junjue.com.tw/Taiwan/NO.mp4
 
 95
 NHK WORLD TV,http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
@@ -293,6 +293,7 @@ Star Movies HD,http://aka28.fansmecast.com/ch060/playlist.m3u8
 
 99
 星衛HD電影台,http://aka30.fansmecast.com/ch069/playlist.m3u8
+
 100
 Channel M HD,http://aka32.fansmecast.com/ch084/playlist.m3u8
 
@@ -324,43 +325,43 @@ FOXCRIME福斯警匪,http://aka10.fansmecast.com/ch095/playlist.m3u8
 FOX家庭電影,http://aka27.fansmecast.com/ch085/playlist.m3u8
 
 110
-HBO強檔巨獻,http://www.junjue.com.tw/Taiwan/NO.mp4
+HBO HD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/kbo63-E0303.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/kbo63-E0303.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/kbo63-E0303.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/kbo63-E0303.m3u8#http://aka29.fansmecast.com/ch065/playlist.m3u8
 
 111
-HBO溫馨家庭,http://www.junjue.com.tw/Taiwan/NO.mp4
+HBO強檔巨獻,http://www.junjue.com.tw/Taiwan/NO.mp4
 
 112
 HBO原創巨獻,http://aka29.fansmecast.com/ch068/playlist.m3u8
 
 113
-公視戲劇,http://210.201.54.102/live2/pts_drama.sdp/playlist.m3u8
+HBO溫馨家庭,http://www.junjue.com.tw/Taiwan/NO.mp4
 
 114
-博斯運動台,http://aka01.fansmecast.com/ch079/playlist.m3u8#http://210.201.54.102/live2/b_sports/playlist.m3u8#http://live1.wowotv.tw/live2/b_sports/chunklist.m3u8
+公視戲劇,http://210.201.54.102/live2/pts_drama.sdp/playlist.m3u8
 
 115
-博斯高球台,http://aka30.fansmecast.com/ch071/playlist.m3u8#http://210.201.54.102/live2/b_golf/playlist.m3u8#http://live1.wowotv.tw/live2/b_golf/chunklist.m3u8
+博斯運動台,http://aka01.fansmecast.com/ch079/playlist.m3u8#http://210.201.54.102/live2/b_sports/playlist.m3u8#http://live1.wowotv.tw/live2/b_sports/chunklist.m3u8
 
 116
-博斯高球II台,http://210.201.54.102/live2/b_golf2/playlist.m3u8#http://live1.wowotv.tw/live2/b_golf2/chunklist.m3u8
+博斯高球台,http://aka30.fansmecast.com/ch071/playlist.m3u8#http://210.201.54.102/live2/b_golf/playlist.m3u8#http://live1.wowotv.tw/live2/b_golf/chunklist.m3u8
 
 117
-博斯魅力台,http://210.201.54.102/live2/b_charm/playlist.m3u8#http://live1.wowotv.tw/live2/b_charm/chunklist.m3u8
+博斯高球II台,http://210.201.54.102/live2/b_golf2/playlist.m3u8#http://live1.wowotv.tw/live2/b_golf2/chunklist.m3u8
 
 118
-博斯無限台,http://210.201.54.102/live2/b_infinity/playlist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht58-E0206.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht58-E0206.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht58-E0206.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht58-E0206.m3u8#http://live1.wowotv.tw/live2/b_infinity/chunklist.m3u8
+博斯魅力台,http://210.201.54.102/live2/b_charm/playlist.m3u8#http://live1.wowotv.tw/live2/b_charm/chunklist.m3u8
 
 119
-博斯足球台,http://aka01.fansmecast.com/ch076/playlist.m3u8#http://210.201.54.102/live2/b_football/playlist.m3u8#http://live1.wowotv.tw/live2/b_football/chunklist.m3u8
+博斯無限台,http://210.201.54.102/live2/b_infinity/playlist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht58-E0206.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht58-E0206.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht58-E0206.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht58-E0206.m3u8#http://live1.wowotv.tw/live2/b_infinity/chunklist.m3u8
 
 120
-博斯網球台,http://aka01.fansmecast.com/ch078/playlist.m3u8#http://210.201.54.102/live2/b_tennis/playlist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht59-E0207.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht59-E0207.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht59-E0207.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht59-E0207.m3u8#http://live1.wowotv.tw/live2/b_tennis/chunklist.m3u8
+博斯足球台,http://aka01.fansmecast.com/ch076/playlist.m3u8#http://210.201.54.102/live2/b_football/playlist.m3u8#http://live1.wowotv.tw/live2/b_football/chunklist.m3u8
 
 121
-愛放動漫, http://210.201.54.100/gtlive2/ifunhd/chunklist_w845567108.m3u8?t=FADAAAF28B5EAA2884375BD4FB970A2524B48C4F810AEE9326FF1D32AF408B6D#http://210.201.54.102/live2/ifunhd/playlist.m3u8#http://210.201.54.100:1935/live2/ifunhd/chunklist.m3u8
+博斯網球台,http://aka01.fansmecast.com/ch078/playlist.m3u8#http://210.201.54.102/live2/b_tennis/playlist.m3u8#http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht59-E0207.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht59-E0207.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht59-E0207.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht59-E0207.m3u8#http://live1.wowotv.tw/live2/b_tennis/chunklist.m3u8
 
 122
-愛放動漫2,http://210.201.54.102/live2/tcch03/playlist.m3u8
+愛放動漫,http://210.201.54.102/gtlive2/ifunhd/chunklist_w845567108.m3u8?t=70DA800B81C4EEA7D0A9D9A037534D116950C4BBB4BBF1DB9C1A82AA731E729A#http://210.201.54.102/live2/ifunhd/playlist.m3u8#http://210.201.54.100:1935/live2/ifunhd/chunklist.m3u8
 
 123
 亞洲旅遊台,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht56-E0104.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht56-E0104.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht56-E0104.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht56-E0104.m3u8#http://aka02.fansmecast.com/ch020/playlist.m3u8
@@ -378,10 +379,10 @@ HBO原創巨獻,http://aka29.fansmecast.com/ch068/playlist.m3u8
 民視戲劇台,http://58.99.33.4:1935/liveedge/live_183_3.stream/playlist.m3u8#http://58.99.33.4:1935/liveedge/live_751_3.stream/playlist.m3u8
 
 128
-民視四季台,http://59.120.43.180:17623
+民視四季台,http://59.120.43.180:17623#http://210.61.67.76:9981/stream/channelid/17?ticket=2D0101820FB97C9AC28E2A80166110BFADD99785#http://210.61.67.76:9981/stream/channelid/17
 
 129
-民視交通電視台,http://161.202.144.253/app/stargolds-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/stargolds-stream_aac/playlist.m3u8#http://210.201.54.102/live2/ftvm_sp.sdp/playlist.m3u8#http://video01-tok.streamup.com/app/stargolds-stream_aac/playlist.m3u8#http://59.120.43.180:17364
+民視交通電視台,http://161.202.144.253/app/stargolds-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/stargolds-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/stargolds-stream_aac/playlist.m3u8#http://210.61.67.76:9981/stream/channelid/19#http://210.201.54.102/live2/ftvm_sp.sdp/playlist.m3u8#http://210.61.67.76:9981/stream/channelid/19?ticket=DFAAA7C59F77F880DD2BBD9B8BCACCBAA7DD8D72#http://59.120.43.180:17364
 
 130
 中視新聞台,http://59.120.43.180:17838
@@ -399,10 +400,10 @@ HBO原創巨獻,http://aka29.fansmecast.com/ch068/playlist.m3u8
 台視新聞台,http://aka08.fansmecast.com/ch001/playlist.m3u8
 
 135
-台視綜合台,http://210.201.54.102/live2/tcch10/playlist.m3u8
+台視綜合台,http://210.61.67.76:9981/stream/channelid/5#http://210.61.67.76:9981/stream/channelid/5?ticket=30544E6269F4843107C1941F9D220A4B91DAE048#http://210.201.54.102/live2/tcch10/playlist.m3u8
 
 136
-華視綜合娛樂,http://aka04.fansmecast.com/ch011/playlist.m3u8#http://59.120.43.180:17835#http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/droid/live/ctshd_5.m3u8#http://ktv037.cdnllnwnl.ds.kylintv.net/nlds/kylin/ctshd/droid/live/ctshd_3.m3u8#http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/droid/live/ctshd_4.m3u8#http://59.120.43.180:17836
+華視綜合娛樂,http://aka04.fansmecast.com/ch011/playlist.m3u8#http://59.120.43.180:17835#http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/droid/live/ctshd_5.m3u8#http://ktv037.cdnllnwnl.ds.kylintv.net/nlds/kylin/ctshd/droid/live/ctshd_3.m3u8#http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/droid/live/ctshd_4.m3u8#http://59.120.43.180:17836#http://210.61.67.76:9981/stream/channelid/15
 
 137
 華視教育文化,http://161.202.144.253/app/vmns-stream_aac/playlist.m3u8#http://video01-tok.streamup.com/app/vmns-stream_aac/playlist.m3u8
@@ -444,7 +445,7 @@ HBO原創巨獻,http://aka29.fansmecast.com/ch068/playlist.m3u8
 東森亞洲新聞,http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8#http://58.99.33.4:1935/liveedge/live_166_3.stream/playlist.m3u8#http://58.99.33.4:1935/liveedge/live_724_3.stream/playlist.m3u8#http://59.120.43.180:17499#http://210.201.54.102/live2/acti_sp.sdp/playlist.m3u8
 
 150
-Bloomberg News (彭博財經),http://220.228.49.10/live/fet007/index.m3u8#http://220.228.38.7/live/fet007/playlist.m3u8?1465193835583&8B92534AB848CE18739E88812F859139A5AA943568AB3A74E1ECCDE94FF66380#http://220.228.38.9:80/live/fet007/playlist.m3u8?1462330749449&C23A57FE6CB68748EBD820A34C980446D3B5D47F82B3FE75F7AAC77C3FF73C95
+迪士尼junior,http://aka29.fansmecast.com/ch074/playlist.m3u8
 
 151
 LUXE TV,http://aka09.fansmecast.com/ch093/playlist.m3u8
@@ -474,7 +475,7 @@ LUXE TV,http://aka09.fansmecast.com/ch093/playlist.m3u8
 ELLETV,http://58.99.33.4:1935/liveedge/live_148_3.stream/playlist.m3u8
 
 160
-CCTV1-綜合HD,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240243_1/encoder/0/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV1HD5M#http://112.90.72.246:9009/live/chid=705#http://183.207.249.15/PLTV/3/224/3221225680/index.m3u8#http://www.szmgiptv.com:14437/hls/1.m3u8#http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8#http://www.anchoredinversion.com/tv/ds/lngtv.php?id=cctv1
+CCTV1-綜合HD,http://www.szmgiptv.com:14437/hls/1.m3u8#http://115.233.62.13/live.aishang.ctlcdn.com/00000110240243_1/encoder/0/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV1HD5M#http://112.90.72.246:9009/live/chid=705#http://183.207.249.15/PLTV/3/224/3221225680/index.m3u8#http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8#http://www.anchoredinversion.com/tv/ds/lngtv.php?id=cctv1
 
 161
 CCTV2-財經HD,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV2HD5M#http://www.anchoredinversion.com/tv/ds/lngtv.php?id=cctv2
@@ -486,7 +487,7 @@ CCTV3-綜藝HD,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240245_1/enc
 CCTV4-中文國際,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=26&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b#http://61.129.131.60/live.aishang.ctlcdn.com/00000110240005_1/encoder/0/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/lngtv.php?id=cctv4
 
 164
-CCTV5-體育HD,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV5HD5M#http://112.90.72.246:9009/live/chid=713
+CCTV5-體育HD,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV5HD5M#http://112.90.72.246:9009/live/chid=713 
 
 165
 CCTV6-電影HD,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240247_1/encoder/3/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV6HD2.5M#http://112.90.72.246:9009/live/chid=714#http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
@@ -495,7 +496,7 @@ CCTV6-電影HD,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240247_1/enc
 CCTV7-軍事與農業,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240248_1/encoder/3/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV7HD5M#http://183.207.249.15/PLTV/3/224/3221225546/index.m3u8#http://61.129.131.65/live.aishang.ctlcdn.com/00000110240247_1/encoder/3/playlist.m3u8#http://www.anchoredinversion.com/tv/ds/lngtv.php?id=cctv7
 
 167
-CCTV8-電視劇HD,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240249_1/encoder/3/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV8HD5M#http://112.90.72.246:9009/live/chid=715
+CCTV8-電視劇HD,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240249_1/encoder/3/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV8HD5M#http://112.90.72.246:9009/live/chid=715 
 
 168
 CCTV9-記錄國際,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240250_1/encoder/3/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTV9HD5M#http://183.207.249.15/PLTV/3/224/3221225572/index.m3u8#http://www.anchoredinversion.com/tv/ds/lngtv.php?id=cctv9
@@ -519,7 +520,7 @@ CCTV14-少兒,http://115.233.62.13/live.aishang.ctlcdn.com/00000110240253_1/enco
 CCTV15-音樂,http://117.21.237.7/live.aishang.ctlcdn.com/00000110240086_1/encoder/0/playlist.m3u8?uidgemini=QeXZKlQgQqL4KroEQo=#http://www.anchoredinversion.com/tv/ds/lngtv.php?id=cctv15
 
 175
-CCTV5+-體育賽事HD,http://116.77.76.7:5011/nl.ts?id=CCTVTYSSHD5M#http://112.90.72.246:9009/live/chid=706
+CCTV5+-體育賽事HD,http://125.88.39.23/live.aishang.ctlcdn.com/00000110240128_1/encoder/3/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=CCTVTYSSHD5M#http://112.90.72.246:9009/live/chid=706
 
 176
 CCTV-高爾夫.網球,http://116.77.76.7:5011/nl.ts?id=GEFWQBQ2.5M
@@ -603,7 +604,7 @@ CIBN風尚頻道,http://cibn.peoplevideo.cn/hls/vCIBNFSPD/800/vCIBNFSPD.m3u8
 華娛衛視,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8#http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/as/live/cetv_4.m3u8#http://110.77.0.182:1935/dvr/1012.stream/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=HYWSBQ2.5M
 
 203
-星空衛視,http://110.77.0.182:1935/dvr/1010.stream/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=XKWSBQ2.5M
+星空衛視,http://110.77.0.182:1935/dvr/1010.stream/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=XKWSBQ2.5M 
 
 204
 浙江衛視,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/droid/live/zhejtvhd_5.m3u8#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str40-C0341.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str40-C0341.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str40-C0341.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str40-C0341.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str40-C0341.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str40-C0341.m3u8#http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/droid/live/zhejtvhd_4.m3u8#http://111.47.108.82:8084/playlist.m3u8?channel-id=wasusyt&Contentid=8717793494045622160#http://122.227.101.159:80/livehls1-cnc.wasu.cn/hd_zjws/z.m3u8#http://220.194.207.26/livehls1-cnc.wasu.cn/hd_zjws/z.m3u8#http://183.207.249.7/PLTV/3/224/3221225544/index.m3u8#http://183.207.249.15/PLTV/3/224/3221225544/index.m3u8#http://183.207.249.15/PLTV/3/224/3221225682/index.m3u8#http://www.anchoredinversion.com/tv/ds/wasu10.php?id=zjwshd#http://www.szmgiptv.com:14436/hls/6.m3u8#http://112.90.72.246:9009/live/chid=702
@@ -621,7 +622,7 @@ CIBN風尚頻道,http://cibn.peoplevideo.cn/hls/vCIBNFSPD/800/vCIBNFSPD.m3u8
 黑龍江衛視HD,http://183.207.249.15/PLTV/3/224/3221225652/index.m3u8#http://112.90.72.246:9009/live/chid=711
 
 209
-北京衛視HD,http://183.207.249.15/PLTV/3/224/3221226257/index.m3u8#http://www.anchoredinversion.com/tv/ds/wasu10.php?id=bjwshd
+北京衛視HD,http://183.207.249.15/PLTV/3/224/3221226257/index.m3u8#http://www.anchoredinversion.com/tv/ds/wasu10.php?id=bjwshd 
 
 210
 天津衛視HD,http://183.207.249.15/PLTV/3/224/3221226265/index.m3u8#http://www.anchoredinversion.com/tv/ds/wasu10.php?id=tjwshd#http://112.90.72.246:9009/live/chid=716
@@ -630,7 +631,7 @@ CIBN風尚頻道,http://cibn.peoplevideo.cn/hls/vCIBNFSPD/800/vCIBNFSPD.m3u8
 湖北衛視HD,http://112.90.72.246:9009/live/chid=718
 
 212
-湖南衛視HD,http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/huntvhd/as/live/huntvhd_4.m3u8#http://118.180.22.132/live.aishang.ctlcdn.com/00000110240130_1/encoder/1/playlist.m3u8?CONTENTID=#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://118.180.22.132/live.aishang.ctlcdn.com/00000110240008_1/encoder/1/playlist.m3u8?CONTENTID=#http://183.207.249.15/PLTV/3/224/3221225584/index.m3u8#http://www.anchoredinversion.com/tv/ds/wasu10.php?id=hnwshd
+湖南衛視HD,http://ktv012.cdnak.ds.kylintv.net/nlds/kylin/huntvhd/as/live/huntvhd_4.m3u8#http://118.180.22.132/live.aishang.ctlcdn.com/00000110240130_1/encoder/1/playlist.m3u8?CONTENTID=#http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/str41-C0342.m3u8#http://118.180.22.132/live.aishang.ctlcdn.com/00000110240008_1/encoder/1/playlist.m3u8?CONTENTID=#http://183.207.249.15/PLTV/3/224/3221225584/index.m3u8#http://www.anchoredinversion.com/tv/ds/wasu10.php?id=hnwshd 
 
 213
 新疆衛視,http://183.207.249.15/PLTV/3/224/3221225523/index.m3u8#http://116.77.76.7:5011/nl.ts?id=XJWSBQ2.5M
@@ -654,7 +655,7 @@ CIBN風尚頻道,http://cibn.peoplevideo.cn/hls/vCIBNFSPD/800/vCIBNFSPD.m3u8
 北京衛視,http://183.207.249.15/PLTV/3/224/3221225574/index.m3u8#http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/btvhd/as/live/btvhd_4.m3u8#http://118.180.22.132/live.aishang.ctlcdn.com/00000110240129_1/encoder/1/playlist.m3u8?CONTENTID=#http://118.180.22.132/live.aishang.ctlcdn.com/00000110240026_1/encoder/1/playlist.m3u8?CONTENTID=
 
 220
-西藏衛視,http://183.207.249.15/PLTV/3/224/3221225579/index.m3u8#http://116.77.76.7:5011/nl.ts?id=XZWSBQ2.5M
+西藏衛視,http://183.207.249.15/PLTV/3/224/3221225579/index.m3u8#http://116.77.76.7:5011/nl.ts?id=XZWSBQ2.5M 
 
 221
 東南衛視,http://183.207.249.15/PLTV/3/224/3221225598/index.m3u8
@@ -690,7 +691,7 @@ CIBN風尚頻道,http://cibn.peoplevideo.cn/hls/vCIBNFSPD/800/vCIBNFSPD.m3u8
 山東衛視,http://112.90.72.246:9009/live/chid=717
 
 232
-旅遊衛視,http://183.207.249.15/PLTV/3/224/3221225585/index.m3u8#http://116.77.76.7:5011/nl.ts?id=LYWSBQ2.5M
+旅遊衛視,http://183.207.249.15/PLTV/3/224/3221225585/index.m3u8#http://116.77.76.7:5011/nl.ts?id=LYWSBQ2.5M 
 
 233
 深圳電視劇HD,http://116.77.76.7:5011/nl.ts?id=SSDSJHD5M
@@ -841,7 +842,7 @@ NOW,http://116.77.76.7:5011/nl.ts?id=NOWBQ2.5M
 歐亞體育,http://116.77.76.7:5011/nl.ts?id=OYTYBQ2.5M
 
 282
-先鋒兵羽,http://116.77.76.7:5011/nl.ts?id=OZZQBQ2.5M#http://112.90.72.246:9009/live/chid=117
+先鋒兵羽,http://116.77.76.7:5011/nl.ts?id=OZZQBQ2.5M#http://112.90.72.246:9009/live/chid=117 
 
 283
 風雲足球,http://183.207.249.15/PLTV/3/224/3221225571/index.m3u8
@@ -961,7 +962,7 @@ E! 好萊塢流行娛樂頻道,http://59.120.43.180:17908
 Li時尚生活台,http://aka09.fansmecast.com/ch092/playlist.m3u8
 
 322
-迪士尼junior,http://aka29.fansmecast.com/ch074/playlist.m3u8
+Bloomberg News (彭博財經),http://220.228.49.10/live/fet007/index.m3u8?1467117772355&BB7DD47C16384629023D7EA363292225D9D980FE53FB7B387A3721BAE8E5D319#http://220.228.38.7/live/fet007/playlist.m3u8?1465193835583&8B92534AB848CE18739E88812F859139A5AA943568AB3A74E1ECCDE94FF66380#http://220.228.38.9:80/live/fet007/playlist.m3u8?1462330749449&C23A57FE6CB68748EBD820A34C980446D3B5D47F82B3FE75F7AAC77C3FF73C95 
 
 323
 哈電影,http://210.201.54.102/live2/hotmovie_sp.sdp/playlist.m3u8#http://59.120.43.180:17502
@@ -1042,7 +1043,7 @@ NICKJr,http://210.201.54.102/live2/nick.sdp/playlist.m3u8
 Z現場,http://210.201.54.102/live2/zliving.sdp/playlist.m3u8
 
 349
-BBC國際新聞,http://220.228.49.10/live/fet001/index.m3u8#http://220.228.38.7/live/fet001/playlist.m3u8?1465193835583&8B92534AB848CE18739E88812F859139A5AA943568AB3A74E1ECCDE94FF66380#http://220.228.38.9:80/live/fet001/playlist.m3u8?1462330749449&C23A57FE6CB68748EBD820A34C980446D3B5D47F82B3FE75F7AAC77C3FF73C95#http://59.120.43.180:17569#http://210.201.54.102/live2/bbc_sp.sdp/playlist.m3u8
+BBC國際新聞,http://220.228.49.10/live/fet001/index.m3u8?1467117772355&BB7DD47C16384629023D7EA363292225D9D980FE53FB7B387A3721BAE8E5D319#http://220.228.38.10/live/fet001/playlist.m3u8?1467117772355&BB7DD47C16384629023D7EA363292225D9D980FE53FB7B387A3721BAE8E5D319#http://220.228.38.9:80/live/fet001/playlist.m3u8?1462330749449&C23A57FE6CB68748EBD820A34C980446D3B5D47F82B3FE75F7AAC77C3FF73C95#http://59.120.43.180:17569#http://210.201.54.102/live2/bbc_sp.sdp/playlist.m3u8
 
 350
 國家歷史,http://210.201.54.102/live2/history.sdp/playlist.m3u8
@@ -1096,196 +1097,276 @@ ABC,http://203.162.235.45:17937
 綜-非凡大搜索,http://58.99.33.4:1935/liveedge/live_149_3.stream/playlist.m3u8
 
 367
-綜-舌尖上的中國,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sjsdzg_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-舌尖上的中國,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sjsdzg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sjsdzg_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 368
-綜-奔跑吧兄弟第二季,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bpbxddej_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-奔跑吧兄弟第二季,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bpbxddej_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bpbxddej_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 369
-綜-最強大腦,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zqdn_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-最強大腦,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zqdn_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zqdn_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 370
-綜-誰是大歌神,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ycdgs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-誰是大歌神,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ycdgs_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ycdgs_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 371
-綜-我是歌手,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_imsinger_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-我是歌手,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_imsinger_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_imsinger_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 372
-劇-羋月傳,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-非常完美,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fcwm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fcwm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 373
-劇-琅琊榜,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-非誠勿擾,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fcwr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fcwr_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 374
-劇-步步驚心,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbjx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-蒙面歌王,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mmgw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 375
-劇-甄嬛傳,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhenhuan_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-一路上有你,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ylsyn_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 376
-劇-鹿鼎記,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ldj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-花漾爺爺,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hyyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 377
-劇-還珠格格,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hzgg_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-極限桃戰,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lb_jxtz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 378
-劇-西遊記,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+綜-挑戰者聯盟,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tzzlm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 379
-劇-包青天,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-羋月傳,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_myz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 380
-劇-來自未來的史密特,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzwldsmt_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-琅琊榜,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyb_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lyb_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 381
-劇-錦繡緣華麗冒險,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyhlmx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-步步驚心,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbjx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bbjx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 382
-卡-娃娃故事屋,http://210.201.54.102/live2/wowostoryc/playlist.m3u8
+劇-甄嬛傳,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zhenhuan_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 383
-卡-娃娃故事屋ABC,http://210.201.54.102/live2/wowostorye/playlist.m3u8
+劇-鹿鼎記,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ldj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ldj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 384
-卡-哆啦A夢,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dlam_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-還珠格格, http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hzgg_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hzgg_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 385
-卡-蠟筆小新1,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lbxx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-西遊記,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 386
-卡-蠟筆小新2,http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+劇-包青天,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bqt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xyj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 387
-卡-名偵探柯南,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mztkn_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-來自未來的史密特,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzwldsmt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzwldsmt_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 388
-卡-櫻桃小丸子,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ytxwz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-錦繡緣華麗冒險,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyhlmx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jxyhlmx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 389
-卡-火影忍者(日語簡字),http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dianshijia5_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-歡樂頌,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zczb5_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 390
-卡-宮崎駿全集,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dianshijia2_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-太子妃升職記,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xmblzjh_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 391
-卡-可愛巧虎島,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kaqhd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-偽裝者,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_wzz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 392
-卡-貓和老鼠,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-好先生,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hxs_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 393
-卡-熊出沒,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xcm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1//live.g3proxy.lecloud.com/gslb?stream_id=lb_xcm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-那年青春我們正好,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zczb1_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 394
-好萊塢高清影院,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-親愛的翻譯官,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fyg_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 395
-熱門高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rmmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-荒原,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dianshijia6_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 396
-偵探高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_meiju_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-絕命卦師,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dianshijia7_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 397
-跟播高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-山海經之赤影傳說,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_nymfz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 398
-經典高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+劇-馬麗,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mali_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 399
-科幻高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-娃娃故事屋,http://210.201.54.102/live2/wowostoryc/playlist.m3u8
 
 400
-奇幻高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-娃娃故事屋ABC,http://210.201.54.102/live2/wowostorye/playlist.m3u8
+
 
 401
-喜劇高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-哆啦A夢,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dlam_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dlam_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 402
-單元高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dymj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-蠟筆小新1,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lbxx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lbxx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 403
-肥皂高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-蠟筆小新2,http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
 
 404
-罪案燒腦高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zasn_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-名偵探柯南,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mztkn_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 405
-超級英雄高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-櫻桃小丸子,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ytxwz_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_ytxwz_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 406
-律政醫務高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-火影忍者(日語簡字),http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dianshijia5_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dianshijia5_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 407
-熱血動作高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-宮崎駿全集, http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dianshijia2_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dianshijia2_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 408
-青春偶像高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qcoxmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+卡-可愛巧虎島,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kaqhd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_kaqhd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 409
-精彩影視高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdhqjc&playtype=live&auth=no
+卡-貓和老鼠, http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 410
-熱播美劇高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdrbmj&playtype=live&auth=no
+卡-熊出沒,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xcm_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xcm_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 411
-經典電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdjddy2&playtype=live&auth=no
+華語獨立音樂,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydlyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 412
-環宇電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdjddy1&playtype=live&auth=no
+影-周星馳電影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zxc_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 413
-影像英倫高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdfsyl&playtype=live&auth=no
+影-成龍電影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 414
-亞洲電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdyzdy&playtype=live&auth=no
+電影播不停,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 415
-歐美電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdomdy&playtype=live&auth=no
+動作電影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 416
-好萊塢電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdhlwdy&playtype=live&auth=no
+香港電影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 417
-院線電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdyxdy&playtype=live&auth=no
+喜劇電影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 418
-MTV LIVE HD音樂,http://210.201.54.102/live2/mtv.sdp/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=MTVBQ2.5M
+華語電影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 419
-環球影視,http://www.junjue.com.tw/Taiwan/NO.mp4
+日韓電影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rhdy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 420
-(臨時)大愛2HD,http://210.201.54.102/live2/di_2.sdp/playlist.m3u8
+搞笑微電影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dianshijia10_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 421
-(臨時)衛視國際Star Movies電影,http://116.77.76.7:5011/nl.ts?id=WSGJDYBQ2.5M
+好萊塢高清影院,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 422
-(臨時)動力頻道HD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht53-E0101.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht53-E0101.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht53-E0101.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht53-E0101.m3u8
+熱門高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rmmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 423
-(臨時)國家地理HD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht54-E0102.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht54-E0102.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht54-E0102.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht54-E0102.m3u8
+偵探高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_meiju_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 424
-(臨時)Discovery HD WORLD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht55-E0103.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht55-E0103.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht56-55-E0103.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht55-E0103.m3u8
+跟播高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gbmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 425
-◎民視HD,p2p://106.186.121.94:8260/571e819a000ba6823fb264b95e2c25fc
-◎民視四季台HD,p2p://106.186.121.94:8260/56070ff10008f3995680e23a647c6a70
-◎中視HD,p2p://106.186.121.94:8260/571e838d00093f2f3fba015655a417c6
+經典高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jdmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+426
+科幻高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_khmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+427
+奇幻高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qhmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+428
+喜劇高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_xjmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+429
+單元高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_dymj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+430
+肥皂高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_fzmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+431
+罪案燒腦高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_zasn_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+432
+超級英雄高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cjyx_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+433
+律政醫務高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzywmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+434
+熱血動作高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rxdzmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+435
+青春偶像高清美劇,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_qcoxmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+436
+精彩影視高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdhqjc&playtype=live&auth=no
+
+437
+熱播美劇高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdrbmj&playtype=live&auth=no
+
+438
+經典電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdjddy2&playtype=live&auth=no
+
+439
+環宇電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdjddy1&playtype=live&auth=no
+
+440
+影像英倫高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdfsyl&playtype=live&auth=no
+
+441
+亞洲電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdyzdy&playtype=live&auth=no
+
+442
+歐美電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdomdy&playtype=live&auth=no
+
+443
+好萊塢電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdhlwdy&playtype=live&auth=no
+
+444
+院線電影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdyxdy&playtype=live&auth=no
+
+445
+(臨時)MTV LIVE HD音樂,http://210.201.54.102/live2/mtv.sdp/playlist.m3u8#http://116.77.76.7:5011/nl.ts?id=MTVBQ2.5M 
+
+446
+(臨時)國家地理HD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht54-E0102.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht54-E0102.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht54-E0102.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht54-E0102.m3u8
+
+447
+(臨時)Discovery HD WORLD,http://60.250.72.49:8134/hls-live/livepkgr/_definst_/liveevent/cht55-E0103.m3u8#http://60.250.83.169:8134/hls-live/livepkgr/_definst_/liveevent/cht55-E0103.m3u8#http://60.251.36.157:8134/hls-live/livepkgr/_definst_/liveevent/cht56-55-E0103.m3u8#http://118.163.0.13:8134/hls-live/livepkgr/_definst_/liveevent/cht55-E0103.m3u8
+
+448
+(臨時)公視2台,http://210.61.67.76:9981/stream/channelid/3?ticket=609C9AFB9F97EA776B4FA669032819937E470887
+
+449
+(測試)烏龍派出所-有廣告,http://video10-lax.streamup.com/app/lilia0427_aac/playlist.m3u8
+
+450
+(測試)銀魂,http://video01-lon.streamup.com/app/30431-gintama_aac/chunklist.m3u8
+
+451
+◎民視HD,p2p://96.44.141.58:6038/572883c90004a06d4b5a33e762165afe.ts#p2p://106.186.121.94:8260/571e819a000ba6823fb264b95e2c25fc
+◎民視四季台HD,p2p://96.44.141.58:6038/5710a987000463be8a3ab77418d35e70.ts#p2p://106.186.121.94:8260/56070ff10008f3995680e23a647c6a70
+◎中視HD,p2p://96.44.141.58:6038/5710aa59000668cf8a3dec490fc9416c.ts#p2p://106.186.121.94:8260/571e838d00093f2f3fba015655a417c6
 ◎中視菁采台,p2p://106.186.121.94:8260/5607106e0000aa935682c86361951e45
-◎台視HD,p2p://106.186.121.94:8260/571e82ea000c82013fb7857362f0571e
-◎華視HD,p2p://106.186.121.94:8260/571e843500020e253fbc8fbf6ad85a02
-◎公視HD,p2p://106.186.121.94:8260/571e868d000196d33fc5b75b076f0f2e
+◎台視HD,p2p://96.44.141.58:6038/5710aaa30002f0418a3f0c7675a876ab.ts#p2p://106.186.121.94:8260/571e82ea000c82013fb7857362f0571e
+◎華視HD,p2p://96.44.141.58:6038/5710a9ff000321218a3c8be23d4c6f56.ts#p2p://106.186.121.94:8260/571e843500020e253fbc8fbf6ad85a02
+◎公視HD,p2p://96.44.141.58:6038/5710ab330008f2be8a4140811156322b.ts#p2p://106.186.121.94:8260/571e868d000196d33fc5b75b076f0f2e
 ◎大愛SD,p2p://106.186.121.94:8260/571e80250001f5cc3facb133094b2e16#p2p://106.186.121.94:8260/5607137700067929568ea4fc6afd023c
 ◎大愛2HD,p2p://106.186.121.94:8260/571e7e4100030d4a3fa54ed91e896a70
 
-◎三立台灣台HD,p2p://106.186.121.94:8260/566e1f290005d31848769c996e042e14
-◎三立都會台HD,p2p://106.186.121.94:8260/5607a7d3000172dd58d22b18637e5888
+◎三立台灣台HD,p2p://96.44.141.58:6038/5723a6270005be5d3858d65900217beb.ts#p2p://106.186.121.94:8260/566e1f290005d31848769c996e042e14
+◎三立都會台HD,p2p://96.44.141.58:6038/5723a44a0001aa7738518e04078b0ef2.ts#p2p://106.186.121.94:8260/5607a7d3000172dd58d22b18637e5888
 ◎三立戲劇台,p2p://106.186.121.94:8260/560779d700013988581e8aa177120989
 ◎三立綜合台,p2p://106.186.121.94:8260/56077973000bfeaa581d06c26d907aff
+◎三立國際台,p2p://96.44.141.58:6038/5723a5430004a38d38555b7011b77b26.ts
 ◎緯來戲劇,p2p://106.186.121.94:8260/5607adaa000980af58e8fd0636e5657f
-◎東森戲劇,p2p://106.186.121.94:8260/5607d0830002d84459711af52e966a2e
+◎東森戲劇,p2p://96.44.141.58:6038/57567cf30004fe225cb3991a18bd094d.ts#p2p://106.186.121.94:8260/5607d0830002d84459711af52e966a2e
 ◎龍華偶像,p2p://106.186.121.94:8260/56077c55000dc10a58284a0945fd0b42
 ◎龍華影劇,p2p://106.186.121.94:8260/56077cfc000b95ef582ad5d427b72385
 ◎龍華戲劇,p2p://106.186.121.94:8260/56077c9f0007e71c5829699a5b1418e0
@@ -1293,21 +1374,26 @@ MTV LIVE HD音樂,http://210.201.54.102/live2/mtv.sdp/playlist.m3u8#http://116.7
 ◎靖洋戲劇台,p2p://106.186.121.94:8260/56077aed000b95725822cb391d8c29df
 ◎ELTA愛爾達影劇,p2p://106.186.121.94:8260/56077d8e000712af582d0efd2f3d1aa3
 ◎EYE TV戲劇,p2p://106.186.121.94:8260/56077d3e000b2a93582bd789647227c9
-◎緯來精彩HD,p2p://106.186.121.94:8260/56077921000b604a581bc65925d26a63
-◎八大HD戲劇台(MOD),p2p://106.186.121.94:8260/56077a33000843bb581ff3cf2f1100ac
+◎八大HD戲劇台(MOD),p2p://96.44.141.58:6038/5723a6860002b674385a48ab394e53ad.ts#p2p://106.186.121.94:8260/56077a33000843bb581ff3cf2f1100ac
 
 ◎八大第一台,p2p://106.186.121.94:8260/56077a8b0008f99558214bbe5f4b1141
-◎八大綜合台HD,p2p://106.186.121.94:8260/5607a814000a934058d32b563fee63a5
-◎中天綜合HD,p2p://106.186.121.94:8260/56076f33000325c857f4fa8202ee52d5
-◎中天娛樂,p2p://106.186.121.94:8260/56075708000e4dc6579695672c481f25
+◎八大綜合台HD,p2p://106.186.121.94:8260/5607a814000a934058d32b563fee63a5#p2p://96.44.141.58:6038/5723a4a000072f8f3852df5e6ec00ee2.ts
 ◎衛視中文台HD,p2p://106.186.121.94:8260/5604fab4000952444e5debff5e3c48ff
-◎ELTA愛爾達綜合HD,p2p://106.186.121.94:8260/560772ae000d50c65802959863604e97
+◎東森綜合台,p2p://96.44.141.58:6038/57567df7000933d15cb791ca0a7373fd.ts#p2p://106.186.121.94:8260/5607d0fa0004f1055972ec577a7b2138
+◎中天綜合台HD,p2p://106.186.121.94:8260/56076f33000325c857f4fa8202ee52d5
+◎中天娛樂台,p2p://96.44.141.58:6038/575674c70007070a5c93adc222d65b9d.ts#p2p://106.186.121.94:8260/56075708000e4dc6579695672c481f25
+◎中天亞洲台,p2p://96.44.141.58:6038/56f8cb6b000a82712d0008d447b552f7.ts
+◎TVBS歡樂台,p2p://96.44.141.58:6038/5723a51c00001d783854c1ef7f417f61.ts  
+◎緯來綜合,p2p://96.44.141.58:6038/5723a5e30005bc563857ccb82709177f.ts
+◎緯來精彩HD,p2p://106.186.121.94:8260/56077921000b604a581bc65925d26a63
+◎緯來日本,p2p://106.186.121.94:8260/5607aa300009c8b458db688576d041b8
+◎ELTA愛爾達綜合HD,p2p://96.44.141.58:6038/5723a395000d3000384ecdf07f721dab.ts#p2p://106.186.121.94:8260/560772ae000d50c65802959863604e97
 ◎EYE-TV旅遊,p2p://106.186.121.94:8260/560736a100021fec5717fff9026005be
 ◎亞洲綜合台,p2p://106.186.121.94:8260/5607755500099c4e580cf1015d5f1148
-◎亞洲旅遊台,p2p://106.186.121.94:8260/5607371e0006ee785719e97d43d0776d
+◎亞洲旅遊台,p2p://96.44.141.58:6038/575678de0000384d5ca3a5d639d464a6.ts#p2p://106.186.121.94:8260/5607371e0006ee785719e97d43d0776d
 ◎寰宇綜合台HD,p2p://106.186.121.94:8260/560773a80001817c580663241c931584
 ◎美食星球,p2p://106.186.121.94:8260/560737cd0009542b571c95b32af8775a
-◎緯來日本,p2p://106.186.121.94:8260/5607aa300009c8b458db688576d041b8
+◎星衛娛樂台HD,p2p://106.186.121.94:8260/560772ef0003a31758039106117e19ee
 ◎TVB8,p2p://106.186.121.94:8260/560775e80000c9ef580f2cf7767b6669
 ◎靖天育樂台,p2p://106.186.121.94:8260/560774fb000a6090580b91a332c418ee
 ◎靖天日本台,p2p://106.186.121.94:8260/560778c9000b613f581a6e996f4a4439
@@ -1315,39 +1401,39 @@ MTV LIVE HD音樂,http://210.201.54.102/live2/mtv.sdp/playlist.m3u8#http://116.7
 
 ◎壹新聞HD,p2p://106.186.121.94:8260/560724d300075af656d2749b04d73753
 ◎年代新聞HD,p2p://106.186.121.94:8260/571e912000045f343fef064608001062
-◎中天新聞HD,p2p://106.186.121.94:8260/571e917800045e3f3ff05e07668d4ed2
+◎中天新聞HD,p2p://96.44.141.58:6038/57567557000736d75c95e04622b1269d.ts#p2p://106.186.121.94:8260/571e917800045e3f3ff05e07668d4ed2
 ◎民視新聞HD,p2p://106.186.121.94:8260/5646e5300008b5e0141f1879170347a1
-◎三立新聞台HD,p2p://106.186.121.94:8260/5646e49c0000a7eb141cd44864a373b0
-◎東森新聞HD,p2p://106.186.121.94:8260/571e91c70009583a3ff193e501761e6c
+◎三立新聞台HD,p2p://96.44.141.58:6038/5723a6670004a8ae3859d01214de1cf0.ts#p2p://106.186.121.94:8260/5646e49c0000a7eb141cd44864a373b0
+◎東森新聞HD,p2p://96.44.141.58:6038/57567d3b0000189e5cb4b11c238e0294.ts#p2p://106.186.121.94:8260/571e91c70009583a3ff193e501761e6c
 ◎東森財經HD,p2p://106.186.121.94:8260/571e8df60002dc5e3fe2a9d528cf229c
 ◎TVBS新聞台HD,p2p://106.186.121.94:8260/56e16cb60000eed3fa08ff6640643103
 ◎非凡新聞HD,p2p://106.186.121.94:8260/5646cdb800035c8713c36a5d6f294688
 
 ◎CN卡通台,p2p://106.186.121.94:8260/560267f1000129f54450a03b76a864e1
-◎MOMO親子,p2p://106.186.121.94:8260/56025a1d0001534b441a9c252d3d66e7
-◎東森幼幼台,p2p://106.186.121.94:8260/5607d15a000574ed59746379469d0d01
+◎MOMO親子,2p://96.44.141.58:6038/57567afa000cfd935cabe67e15a8244a.ts#p2p://106.186.121.94:8260/56025a1d0001534b441a9c252d3d66e7
+◎東森幼幼台,p2p://96.44.141.58:6038/57567f1700040d465cbbf57c40552bac.ts#p2p://106.186.121.94:8260/5607d15a000574ed59746379469d0d01
 ◎龍華動畫-HD,p2p://106.186.121.94:8260/5607a2030000d75758bb7669589d315d
 ◎ANIMAX HD動漫(MOD),p2p://106.186.121.94:8260/5607a1b1000169a758ba363e0f417c9c
 ◎iFun愛放動漫台HD,p2p://106.186.121.94:8260/5607a2ac000a86a158be0d0c14f151fe
 ◎曼迪日本動漫,p2p://106.186.121.94:8260/5607777c000a74965815599363c355d5
 ◎MYKIDS-HD,p2p://106.186.121.94:8260/5607a25d0003a52558bcd6b17dcd05ce
 ◎MY101-HD,p2p://106.186.121.94:8260/5607a3ab0001367058c1eec34a7b5350
-◎NICK卡通-HD,p2p://106.186.121.94:8260/5607a36b000df61158c0f806683018ce
+◎NICK卡通-HD,p2p://106.186.121.94:8260/5607a36b000df61158c0f806683018ce 
 ◎BabyTV-HD,p2p://106.186.121.94:8260/5607a31900081b1058bfb63653a91047
 
 ◎靖天映畫,p2p://106.186.121.94:8260/560781f0000dbff3583e2f8777e522fb
 ◎龍華洋片,p2p://106.186.121.94:8260/56078caa000925e9586814e70e765886
 ◎龍華電影,p2p://106.186.121.94:8260/56078d59000cf93d586ac17b07ee3138
 ◎靖天電影台,p2p://106.186.121.94:8260/5607824f00031a08583f9fe624767c80
-◎東森洋片台,p2p://106.186.121.94:8260/5607b237000db3de58fac4d7327c13d2
-◎東森綜合台,p2p://106.186.121.94:8260/5607d0fa0004f1055972ec577a7b2138
+◎緯來電影,p2p://96.44.141.58:6038/5723a4f5000610a438542b1d33da2c27.ts
+◎東森電影,p2p://96.44.141.58:6038/57567e710000ac035cb96c3126585776.ts
+◎東森洋片台,p2p://96.44.141.58:6038/57567da8000482815cb65c0b6e895702.ts#p2p://106.186.121.94:8260/5607b237000db3de58fac4d7327c13d2
 ◎衛視電影台,p2p://106.186.121.94:8260/5692d4f6000d1c1582699d266cb918ea
-◎衛視國際Star Movies電影,p2p://106.186.121.94:8260/56a777de000ad69a17a496325c7655a4
-◎衛視西片台,p2p://106.186.121.94:8260/56078c630000a4dc5866fd6110a23cff
+◎衛視西片台,p2p://106.186.121.94:8260/56a777de000ad69a17a496325c7655a4
+◎衛視國際Star Movies電影,p2p://106.186.121.94:8260/56078c630000a4dc5866fd6110a23cff
 ◎好萊塢電影,p2p://106.186.121.94:8260/5607b0290005d23158f2bc205e3977b9
 ◎美亞電影台,p2p://106.186.121.94:8260/56078074000a66a75838624a6d3f52e8
-◎星衛HD電影台,p2p://106.186.121.94:8260/5607802f000dfcee583755ad4e2a59d1
-◎星衛娛樂台HD,p2p://106.186.121.94:8260/560772ef0003a31758039106117e19ee
+◎星衛HD電影台,p2p://96.44.141.58:6038/57567b6900090b295cad97176dd6492a.ts#p2p://106.186.121.94:8260/5607802f000dfcee583755ad4e2a59d1
 ◎FOX ACTION動作電影,p2p://106.186.121.94:8260/560786ee0006dcd75851adea152b6f61
 ◎FOX family家庭電影,p2p://106.186.121.94:8260/560787430000be3b5852f86213f23709
 ◎FOX MOVIES PREMIUMHD電影,p2p://106.186.121.94:8260/560788ea0006da1358596e4c279d2ae2
@@ -1369,7 +1455,7 @@ MTV LIVE HD音樂,http://210.201.54.102/live2/mtv.sdp/playlist.m3u8#http://116.7
 ◎BBC-entertainment電影,p2p://106.186.121.94:8260/560745fb000772d35753f8d93c4d6f54
 ◎AXN台灣,p2p://106.186.121.94:8260/5607b0f40003ba1658f5d4904063375d
 ◎影迷數位電影,p2p://106.186.121.94:8260/560733f4000e4eaa570d8f4d3dfa3427
-◎SYFY恐怖電影,p2p://106.186.121.94:8260/56078aa30002c319586027ea41716638
+◎SYFY恐怖電影,p2p://96.44.141.58:6038/56f8bf6f0005d5302cd13742032b7b88.ts#p2p://106.186.121.94:8260/56078aa30002c319586027ea41716638
 
 ◎韓國娛樂台,p2p://106.186.121.94:8260/5607557d0006527057908c6224ae4a55
 ◎Channel M HD,p2p://106.186.121.94:8260/560752e9000c6b8957867bcf3af20e2e
@@ -1385,7 +1471,7 @@ MTV LIVE HD音樂,http://210.201.54.102/live2/mtv.sdp/playlist.m3u8#http://116.7
 ◎好消息2台,p2p://106.186.121.94:8260/571e7f660008c2ad3fa9c8d83e380b9d
 ◎FRI TV(國語),p2p://106.186.121.94:8260/560726db0003015756da62c0415a095f
 
-◎TCL旅遊生活,p2p://106.186.121.94:8260/5607a4ef000cd48a58c6e35e3f0f3190
+◎TLC旅遊生活,p2p://106.186.121.94:8260/5607a4ef000cd48a58c6e35e3f0f3190
 ◎Discovery HD探索頻道,p2p://106.186.121.94:8260/56073e5f0000eba557363dd409dd3428
 ◎Discovery探索科學,p2p://106.186.121.94:8260/5607414b000bf5185741aa8b25c62806
 ◎國家地理運動HD,p2p://106.186.121.94:8260/56073cec000bdf5a573097686ba97da6
@@ -1393,6 +1479,8 @@ MTV LIVE HD音樂,http://210.201.54.102/live2/mtv.sdp/playlist.m3u8#http://116.7
 ◎國家地理生活,p2p://106.186.121.94:8260/56073e090003048e5734ee6d08197419
 ◎DMAX探索動力,p2p://106.186.121.94:8260/5607425f0000b42b5745ddcb726d4bde
 
+◎緯來育樂,p2p://96.44.141.58:6038/5723a4c6000b4202385374d934bd58da.ts   
+◎緯來體育HD,p2p://96.44.141.58:6038/5723a5900009aa0538568981098d3c63.ts   
 ◎FOX體育3HD,p2p://106.186.121.94:8260/56079eed0006c6ec58af6a0a2f4d07f9
 ◎博斯高球II,p2p://106.186.121.94:8260/560742e1000288405747da1369ae3a49
 ◎博斯足球高清,p2p://106.186.121.94:8260/56079bc90001270758a323f571a7562d
@@ -1434,17 +1522,54 @@ MTV LIVE HD音樂,http://210.201.54.102/live2/mtv.sdp/playlist.m3u8#http://116.7
 ◎TVB翡翠,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
 ◎TVBJ5高清翡翠,p2p://106.186.121.94:8260/5663e68c0002d6812089769062ef2d01
 
-
-◎NHK総合・東京, p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3#p2p://183.60.142.158:9906/574a5d1e000ee17000276abe2a93b967
-◎NHKEテレ東京, p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
-◎日テレ,p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9#p2p://183.60.142.158:9906/574a5d1e000cabec00276a2d1de8deaf
-◎テレビ朝日,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
-◎TBS,p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
-◎テレビ東京, p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
+◎TOKYO　MX,p2p://61.47.41.138:6001/54be10630004b512e94dc7fb5a514a5a
+◎BSアニマックス,p2p://182.253.238.66:9906/56efa4280009c6d0b08d45d1657f49b8
+◎キッズステーション,p2p://182.253.238.66:9906/56efa431000bf001b08d6986688b5e88
+◎NHK総合・東京,p2p://61.47.41.138:6001/54be106200038aa0e94dc3c702e0708c#p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3#p2p://183.60.142.158:9906/574a5d1e000ee17000276abe2a93b967
+◎NHKEテレ東京, p2p://61.47.41.138:6001/54be106200012940e94dc32b6ffb70c5#p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
+◎NHK総合・大阪,p2p://61.47.41.138:6001/54be10770009b1c6e94e176246d81e93
+◎NHKBS1,p2p://182.253.238.66:9906/56efa42800048a30b08d447a5fe33770
+◎NHKBSプレミアム,p2p://182.253.238.66:9906/56efa4280005bae0b08d44c804851061#p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
+◎日テレ,p2p://61.47.41.138:6001/54be10620008c741e94dc51e7de20846#p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9#p2p://183.60.142.158:9906/574a5d1e000cabec00276a2d1de8deaf
+◎日テレジータス,p2p://182.253.238.66:9906/56efa4290001e5a1b08d47b43a3e0249
+◎テレビ朝日,p2p://61.47.41.138:6001/54be1062000b28a1e94dc5ba2286710e#p2p://61.47.41.138:6001/54be107800024a77e94e196574ab1145#p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
+◎TBS,p2p://61.47.41.138:6001/54be1062000dc6f1e94dc66570ee32b2#p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
+◎テレビ東京,p2p://61.47.41.138:6001/54be10630000a922e94dc6f24f2d18fa#p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
 ◎フジテレビ,p2p://50.7.104.10:9906/540050290000343a015059b37121116a#p2p://183.60.142.158:9906/574a5d1f0004447500276bee8eef7089
-◎NHKBSプレミアム, p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
-
-
+◎フジテレビ,p2p://61.47.41.138:6001/54be106300030a82e94dc78e4b9d28ec
+◎ショップチャンネル,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8 
+◎テレビ大阪,p2p://61.47.41.138:6001/54be10780003f507e94e19d26a9135d2
+◎MBS毎日放送,p2p://61.47.41.138:6001/54be1077000dfaa6e94e187b3d395f45
+◎関西テレビ,p2p://61.47.41.138:6001/54be10780000dcd7e94e190710e83204
+◎サンテレビ,p2p://61.47.41.138:6001/54be107800061977e94e1a5e1fd51209
+◎BS日テレ,p2p://182.253.238.66:9906/56efa41e0001b06eb08d1caf0e6c16fc
+◎BS朝日,p2p://182.253.238.66:9906/56efa41d0007e70db08d1a5e03211d18
+◎BS-TBS,p2p://182.253.238.66:9906/56efa41e0002e11eb08d1cfd1dcf6a19
+◎BSジャパン,p2p://182.253.238.66:9906/56efa41e00044ebeb08d1d5a238e5ff7
+◎BSフジ,p2p://182.253.238.66:9906/56efa41e0005bc5eb08d1db8296546ea
+◎WOWOWプライム,p2p://182.253.238.66:9906/56efa41e0006ed0fb08d1e06549b1dff
+◎WOWOWライブ,p2p://182.253.238.66:9906/56efa41e00085aafb08d1e63149f248b
+◎WOWOWシネマ,p2p://182.253.238.66:9906/56efa4280000414fb08d43611bee6880
+◎スターチャンネル,p2p://182.253.238.66:9906/56efa4280000f81fb08d439016c4663c
+◎ナショジオチャンネル,p2p://182.253.238.66:9906/56efa43200007cc1b08d6a8011db4921
+◎旅チャンネル,p2p://182.253.238.66:9906/56efa4320003d1e1b08d6b5a1997688b
+◎BS日本映画専門ch,p2p://182.253.238.66:9906/56efa428000beb41b08d465d560e1951
+◎TBSニュースバード,p2p://182.253.238.66:9906/56efa43200022751b08d6aed098570a0
+◎スカイA,p2p://182.253.238.66:9906/56efa42900007801b08d475729db2ca4
+◎J SPORTS 1,p2p://182.253.238.66:9906/56efa428000d58e1b08d46bb30316f31
+◎J SPORTS 2,p2p://182.253.238.66:9906/56efa428000e8991b08d47097060104c
+◎J SPORTS 3,p2p://182.253.238.66:9906/56efa428000228d0b08d43de638a596b
+◎J SPORTS 4,p2p://182.253.238.66:9906/56efa42800035980b08d442c34e232a6
+◎ミュージック・ジャパンTV ,p2p://182.253.238.66:9906/56efa431000abf50b08d69386a441aa2
+◎ディズニーチャンネルHD,p2p://182.253.238.66:9906/56efa428000a7da1b08d460069ca7d4a
+◎ディスカバリー,p2p://182.253.238.66:9906/56efa431000d5da1b08d69e459131fb4
+◎グリーンチャネル,p2p://182.253.238.66:9906/56efa42800085930b08d4573499045a9
+◎ゴルフネットHD,p2p://182.253.238.66:9906/56efa43100076a30b08d685e67327485
+◎ヒストリーチャンネル,p2p://182.253.238.66:9906/56efa431000e8e51b08d6a322a253218
+◎時代劇専門chHD,p2p://182.253.238.66:9906/56efa43100082100b08d688d10220d07
+◎放送大学,p2p://182.253.238.66:9906/56efa42800072880b08d452574aa43df
+◎ホームドラマCH,p2p://182.253.238.66:9906/56efa431000951b0b08d68db37a53f9b
+◎読売テレビ,p2p://61.47.41.138:6001/54be1077000bd636e94e17ee0175325e
 
 中國美景
 八達嶺南四樓,http://livechina.cntv.wscdns.com:8000/live/flv/channel439
@@ -1546,58 +1671,61 @@ MTV LIVE HD音樂,http://210.201.54.102/live2/mtv.sdp/playlist.m3u8#http://116.7
 
 
 
-P-HBO,p2p://1023005977:9900/571376540002b49e0227ab855cf04af4&link=HGFDSAihgfd
 
-P-HBO-Signature,p2p://1023005977:9900/571376d6000170820229a7031fde0868&link=HGFDSAihgfd
 
-P-HBO-Hits,p2p://1023005977:9900/57137759000931c9022ba8b800bf3e93&link=HGFDSAihgfd
 
-P-HBO-Family,p2p://1023005977:9900/571377c4000f2786022d4c376f982988&link=HGFDSAihgfd
+P-HBO,p2p10230059779900571376540002b49e0227ab855cf04af4&link=HGFDSAihgfd
 
-P-三立戲劇台,p2p://60.249.213.25:9900/5711ad05000e408800a1ed4e580e3652#p2p://61.220.227.30:8268/560779d700013988581e8aa177120989#p2p://60.249.213.25:9900/5606a48100080e330102a8257ae52321
+P-HBO-Signature,p2p10230059779900571376d6000170820229a7031fde0868&link=HGFDSAihgfd
 
-P-三立綜合台,p2p://60.249.213.25:9900/5711ac9c0000635e00a04f986c16642e#p2p://60.249.213.25:9900/56068b9a0008947800a161f031226168
+P-HBO-Hits,p2p1023005977990057137759000931c9022ba8b800bf3e93&link=HGFDSAihgfd
 
-P-臺灣戲劇,p2p://60.249.213.25:9900/5711aced000607ad00a18d731b7d7c67
+P-HBO-Family,p2p10230059779900571377c4000f2786022d4c376f982988&link=HGFDSAihgfd
 
-P-鴻基影劇,p2p://60.249.213.25:9900/570cd30800037d3963f321fe619a070b
+P-三立戲劇台,p2p60.249.213.2599005711ad05000e408800a1ed4e580e3652#p2p61.220.227.308268560779d700013988581e8aa177120989#p2p60.249.213.2599005606a48100080e330102a8257ae52321
 
-P-龍華偶像,p2p://60.249.213.25:9900/570cd486000c439963f8f86f7d537bb2#p2p://60.249.213.25:9900/560693e8000a5fdf00c1d31a74d96195
+P-三立綜合台,p2p60.249.213.2599005711ac9c0000635e00a04f986c16642e#p2p60.249.213.25990056068b9a0008947800a161f031226168
 
-P-龍華電影,p2p://60.249.213.25:9900/571346dd000a88c1016e44a5655b4629#p2p://60.249.213.25:9900/560690f1000e07d100b63f251a2843fb
+P-臺灣戲劇,p2p60.249.213.2599005711aced000607ad00a18d731b7d7c67
 
-P-龍華戲劇,p2p://60.249.213.25:9900/570cc3bd0009b38e63b766aa6d8a3e50#p2p://60.249.213.25:9900/560693b3000932f300c103bb3c811971
+P-鴻基影劇,p2p60.249.213.259900570cd30800037d3963f321fe619a070b
 
-P-龍華影劇,p2p://60.249.213.25:9900/571346fc0000f886016ebb4a46e33091#p2p://60.249.213.25:9900/560688270005cf6d0093e80071d72ce5
+P-龍華偶像,p2p60.249.213.259900570cd486000c439963f8f86f7d537bb2#p2p60.249.213.259900560693e8000a5fdf00c1d31a74d96195
 
-P-龍華經典,p2p://60.249.213.25:9900/571349a6000ac2c5017925df53de17d8
+P-龍華電影,p2p60.249.213.259900571346dd000a88c1016e44a5655b4629#p2p60.249.213.259900560690f1000e07d100b63f251a2843fb
 
-P-龍華洋片,p2p://60.249.213.25:9900/5606a305000c689500fcdcdb65fb6421
+P-龍華戲劇,p2p60.249.213.259900570cc3bd0009b38e63b766aa6d8a3e50#p2p60.249.213.259900560693b3000932f300c103bb3c811971
 
-P-龍華動畫台,p2p://60.249.213.25:9900/570cd62a0009299a63ff6045572c4172#p2p://60.249.213.25:9900/570cd62a0009299a63ff6045572c4172#p2p://60.249.213.25:9900/5606814a0003ba37007918336a1f4f53#p2p://61.220.227.30:8268/5607a2030000d75758bb7669589d315d
+P-龍華影劇,p2p60.249.213.259900571346fc0000f886016ebb4a46e33091#p2p60.249.213.259900560688270005cf6d0093e80071d72ce5
 
-P-星衛HD電影,p2p://60.249.213.25:9900/56068a79000c7a75009cfa0a0c5722df#p2p://60.249.213.25:9900/570ca42e000cb9d0633c20d2254f010f#p2p://61.220.227.30:8268/5607802f000dfcee583755ad4e2a59d1
+P-龍華經典,p2p60.249.213.259900571349a6000ac2c5017925df53de17d8
 
-P-星衛娛樂台HD,p2p://60.249.213.25:9900/5711ad800008a24f00a3cc5655561edd#p2p://60.249.213.25:9900/5711ad800008a24f00a3cc5655561edd#p2p://61.220.227.30:8268/560772ef0003a31758039106117e19ee#p2p://60.249.213.25:9900/5606861a00058518008be52377c91785
+P-龍華洋片,p2p60.249.213.2599005606a305000c689500fcdcdb65fb6421
 
-P-國家地理Music,p2p://60.249.213.25:9900/571346a0000a5b06016d565161cb4e5a.ts
+P-龍華動畫台,p2p60.249.213.259900570cd62a0009299a63ff6045572c4172#p2p60.249.213.259900570cd62a0009299a63ff6045572c4172#p2p60.249.213.2599005606814a0003ba37007918336a1f4f53#p2p61.220.227.3082685607a2030000d75758bb7669589d315d
 
-P-亞洲旅遊,p2p://60.249.213.25:9900/570cd74e000b163c6403d565269a3ed4
+P-星衛HD電影,p2p60.249.213.25990056068a79000c7a75009cfa0a0c5722df#p2p60.249.213.259900570ca42e000cb9d0633c20d2254f010f#p2p61.220.227.3082685607802f000dfcee583755ad4e2a59d1
 
-P-靖天日本,p2p://60.249.213.25:9900/570cd712000bd6026402eb3612d86830
+P-星衛娛樂台HD,p2p60.249.213.2599005711ad800008a24f00a3cc5655561edd#p2p60.249.213.2599005711ad800008a24f00a3cc5655561edd#p2p61.220.227.308268560772ef0003a31758039106117e19ee#p2p60.249.213.2599005606861a00058518008be52377c91785
 
-P-靖天電影,p2p://60.249.213.25:9900/570cc38100075b2463b67bb02a70238c
+P-國家地理Music,p2p60.249.213.259900571346a0000a5b06016d565161cb4e5a.ts
 
-P-靖天戲劇,p2p://60.249.213.25:9900/570cd4a90004fbc663f97f4a4687542d
+P-亞洲旅遊,p2p60.249.213.259900570cd74e000b163c6403d565269a3ed4
 
-P-靖天綜合,p2p://60.249.213.25:9900/570cd6f800023c046402833055424a53
+P-靖天日本,p2p60.249.213.259900570cd712000bd6026402eb3612d86830
 
-P-靖天映畫,p2p://60.249.213.25:9900/5713494c0009dc770177c613216247eb
+P-靖天電影,p2p60.249.213.259900570cc38100075b2463b67bb02a70238c
 
-P-靖天電視,p2p://60.249.213.25:9900/570cd6ac000e15df64015d596cef7637
+P-靖天戲劇,p2p60.249.213.259900570cd4a90004fbc663f97f4a4687542d
 
-P-靖洋卡通,p2p://60.249.213.25:9900/570cd65e000ac03664002bce3a4428dc
+P-靖天綜合,p2p60.249.213.259900570cd6f800023c046402833055424a53
 
-P-靖洋戲劇,p2p://60.249.213.25:9900/570cd6dd0008d80564021b696bbf1ff7
+P-靖天映畫,p2p60.249.213.2599005713494c0009dc770177c613216247eb
 
-P-美亞電影HD,p2p://60.249.213.25:9900/570ca403000dc645633
+P-靖天電視,p2p60.249.213.259900570cd6ac000e15df64015d596cef7637
+
+P-靖洋卡通,p2p60.249.213.259900570cd65e000ac03664002bce3a4428dc
+
+P-靖洋戲劇,p2p60.249.213.259900570cd6dd0008d80564021b696bbf1ff7
+
+P-美亞電影HD,p2p60.249.213.259900570ca403000dc645633
