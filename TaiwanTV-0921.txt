@@ -1,7 +1,7 @@
 台視新聞,http://saka08.fansmestar.com/ch001/playlist.m3u8
 民視,http://saka04.fansmestar.com/ch005/playlist.m3u8
 台視HD,http://saka08.fansmestar.com/ch007/playlist.m3u8
-中視HD,http://saka09.fansmestar.com/ch009/playlist.m3u8
+中視HD,https://saka03.fansmestar.com/ch008/playlist.m3u8
 大愛,http://saka23.fansmestar.com/ch010/playlist.m3u8
 華視綜合娛樂,http://saka04.fansmestar.com/ch011/playlist.m3u8
 霹靂台灣,http://saka20.fansmestar.com/ch012/playlist.m3u8
