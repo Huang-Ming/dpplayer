@@ -1,4 +1,17 @@
-中視HD,http://qpet.pw:19527/ch008/playlist.m3u8
-民視,https://d2dc86uoxrsp4.cloudfront.net/ch005/playlist.m3u8
-華視HD,http://d2dc86uoxrsp4.cloudfront.net/ch011/playlist.m3u8
-民視新聞台,http://d2dc86uoxrsp4.cloudfront.net/ch053/playlist.m3u8
+005
+民視,http://iptv04.moloapp.pw/ch005/playlist.m3u8
+
+009
+中視HD台,http://iptv09.azureedge.net/ch009/playlist.m3u8
+
+011
+華視HD,http://iptv04.azureedge.net/ch011/playlist.m3u8
+
+053
+民視新聞台,http://iptv04.azureedge.net/ch053/playlist.m3u8
+
+092
+Li時尚生活台,http://iptv09.azureedge.net/ch092/playlist.m3u8
+
+093
+LUXE TV,http://iptv09.azureedge.net/ch093/playlist.m3u8
