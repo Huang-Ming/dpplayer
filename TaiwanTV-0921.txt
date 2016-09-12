@@ -1,5 +1,5 @@
 005
-民視,https://iptv04.azureedge.net/ch005/playlist.m3u8
+民視01,https://iptv04.azureedge.net/ch005/playlist.m3u8
 
 009
 中視HD台,http://iptv09.azureedge.net/ch009/playlist.m3u8
