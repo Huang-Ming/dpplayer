@@ -1,2 +1,4 @@
 中視HD,http://qpet.pw:19527/ch008/playlist.m3u8
+民視,https://d2dc86uoxrsp4.cloudfront.net/ch005/playlist.m3u8
 華視HD,http://d2dc86uoxrsp4.cloudfront.net/ch011/playlist.m3u8
+民視新聞台,http://d2dc86uoxrsp4.cloudfront.net/ch053/playlist.m3u8
