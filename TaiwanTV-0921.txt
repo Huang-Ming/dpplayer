@@ -6,16 +6,12 @@
 中視新聞台,http://saka03.local.moloapp.pw:9527/ch006/playlist.m3u8
 007
 台視HD台,http://saka08.local.moloapp.pw:9527/ch007/playlist.m3u8
-008
-中視,http://saka03.local.moloapp.pw:9527/ch008/playlist.m3u8
 009
 中視HD台,http://saka09.local.moloapp.pw:9527/ch009/playlist.m3u8
 010
 慈濟大愛台,http://saka23.local.moloapp.pw:9527/ch010/playlist.m3u8
 011
 華視HD台,http://saka04.local.moloapp.pw:9527/ch011/playlist.m3u8
-012
-霹靂台灣台,http://saka20.local.moloapp.pw:9527/ch012/playlist.m3u8
 013
 公視HD台,http://saka05.local.moloapp.pw:9527/ch013/playlist.m3u8
 015
@@ -31,11 +27,11 @@ Discovery HD World,http://saka31.local.moloapp.pw:9527/ch018/playlist.m3u8
 020
 國家地理高畫質頻道野生,http://saka32.local.moloapp.pw:9527/ch021/playlist.m3u8
 021
-亞洲旅遊頻道,http://saka02.local.moloapp.pw:9527/ch020/playlist.m3u8
+TLC旅遊頻道,http://saka02.local.moloapp.pw:9527/ch020/playlist.m3u8
 022
 卡通頻道,http://saka11.local.moloapp.pw:9527/ch022/playlist.m3u8
 023
-Disney,http://saka07.local.moloapp.pw:9527/ch023/playlist.m3u8
+迪士尼卡通頻道,http://saka07.local.moloapp.pw:9527/ch023/playlist.m3u8
 024
 MOMO親子台,http://saka24.local.moloapp.pw:9527/ch024/playlist.m3u8
 025
@@ -50,8 +46,6 @@ MOMO親子台,http://saka24.local.moloapp.pw:9527/ch024/playlist.m3u8
 三立台灣台,http://saka19.local.moloapp.pw:9527/ch029/playlist.m3u8
 030
 三立國際台,http://saka19.local.moloapp.pw:9527/ch030/playlist.m3u8
-031
-八大娛樂台,http://saka16.local.moloapp.pw:9527/ch031/playlist.m3u8
 032
 東森綜合台,http://saka14.local.moloapp.pw:9527/ch032/playlist.m3u8
 033
@@ -59,17 +53,15 @@ MOMO親子台,http://saka24.local.moloapp.pw:9527/ch024/playlist.m3u8
 034
 Animax,http://saka24.local.moloapp.pw:9527/ch034/playlist.m3u8
 035
-寰宇HD綜合,http://saka28.local.moloapp.pw:9527/ch035/playlist.m3u8
+三立都會HD台,http://saka28.local.moloapp.pw:9527/ch035/playlist.m3u8
 036
 中天綜合台,http://saka12.local.moloapp.pw:9527/ch036/playlist.m3u8
-037
-東風電視,http://d30ehzutu67sp9.cloudfront.net/ch037/playlist.m3u8
 038
 超視,http://saka12.local.moloapp.pw:9527/ch038/playlist.m3u8
 039
 中天娛樂台,http://saka13.local.moloapp.pw:9527/ch039/playlist.m3u8
 040
-東森綜合台,http://saka26.local.moloapp.pw:9527/ch040/playlist.m3u8
+東森戲劇台,http://saka26.local.moloapp.pw:9527/ch040/playlist.m3u8
 041
 八大戲劇台,http://saka16.local.moloapp.pw:9527/ch041/playlist.m3u8
 042
@@ -78,10 +70,6 @@ TVBS歡樂台,http://saka22.local.moloapp.pw:9527/ch042/playlist.m3u8
 緯來戲劇台,http://saka13.local.moloapp.pw:9527/ch043/playlist.m3u8
 044
 緯來日本台,http://saka18.local.moloapp.pw:9527/ch044/playlist.m3u8
-045
-JET綜合台,http://d30ehzutu67sp9.cloudfront.net/ch045/playlist.m3u8
-046
-壹電視綜合台,http://saka22.local.moloapp.pw:9527/ch046/playlist.m3u8
 047
 高點電視台,http://saka18.local.moloapp.pw:9527/ch047/playlist.m3u8
 048
@@ -89,17 +77,17 @@ JET綜合台,http://d30ehzutu67sp9.cloudfront.net/ch045/playlist.m3u8
 049
 壹電視新聞台,http://saka22.local.moloapp.pw:9527/ch049/playlist.m3u8
 050
-寰宇新聞HD,http://saka32.local.moloapp.pw:9527/ch086/playlist.m3u8
+年代新聞HD,http://saka32.local.moloapp.pw:9527/ch086/playlist.m3u8
 051
 東森新聞台,http://saka17.local.moloapp.pw:9527/ch051/playlist.m3u8
 052
-中天新聞台,http://d1lf08g6w4jubz.cloudfront.net/ch052/playlist.m3u8
+中天新聞台,http://saka20.local.moloapp.pw:9527/ch012/playlist.m3u8
 053
 民視新聞台,http://saka04.local.moloapp.pw:9527/ch053/playlist.m3u8
 054
-三立新聞台,http://saka19.local.moloapp.pw:9527/ch054/playlist.m3u8
+三立新聞HD台,http://saka19.local.moloapp.pw:9527/ch054/playlist.m3u8
 055
-TVBS新聞台,http://saka15.local.moloapp.pw:9527/ch055/playlist.m3u8
+TVBS新聞HD台,http://saka15.local.moloapp.pw:9527/ch055/playlist.m3u8
 056
 TVBS,http://saka15.local.moloapp.pw:9527/ch056/playlist.m3u8
 057
@@ -107,7 +95,7 @@ TVBS,http://saka15.local.moloapp.pw:9527/ch056/playlist.m3u8
 058
 非凡新聞台,http://saka26.local.moloapp.pw:9527/ch058/playlist.m3u8
 059
-壹電視電影台,http://saka20.local.moloapp.pw:9527/ch059/playlist.m3u8
+非凡商業台,http://saka07.local.moloapp.pw:9527/ch081/playlist.m3u8
 060
 Star Movies HD,http://saka28.local.moloapp.pw:9527/ch060/playlist.m3u8
 061
@@ -122,10 +110,8 @@ FOX福斯頻道HD,http://saka27.local.moloapp.pw:9527/ch064/playlist.m3u8
 HBO HD 頻道,http://saka29.local.moloapp.pw:9527/ch065/playlist.m3u8
 066
 東森洋片台,http://saka26.local.moloapp.pw:9527/ch066/playlist.m3u8
-067
-AXN,http://saka20.local.moloapp.pw:9527/ch067/playlist.m3u8
 068
-HBO 原創鉅獻 HD,http://saka29.local.moloapp.pw:9527/ch068/playlist.m3u8
+StarMovies,http://saka29.local.moloapp.pw:9527/ch068/playlist.m3u8
 069
 星衛HD電影台,http://saka30.local.moloapp.pw:9527/ch069/playlist.m3u8
 070
@@ -136,6 +122,8 @@ Golf Channel(博斯高球),http://saka30.local.moloapp.pw:9527/ch071/playlist.m3
 緯來體育台,http://saka25.local.moloapp.pw:9527/fansme072/playlist.m3u8
 073
 FOX SPORTS 3,http://saka28.local.moloapp.pw:9527/ch073/playlist.m3u8
+074
+博斯魅力台,http://saka29.local.moloapp.pw:9527/ch074/playlist.m3u8
 075
 博斯無限台,http://saka30.local.moloapp.pw:9527/ch075/playlist.m3u8
 076
@@ -147,37 +135,27 @@ FOX SPORTS 3,http://saka28.local.moloapp.pw:9527/ch073/playlist.m3u8
 079
 博斯運動網,http://saka01.local.moloapp.pw:9527/ch079/playlist.m3u8
 081
-衛視中文台,http://saka07.local.moloapp.pw:9527/ch081/playlist.m3u8
+壹電視電影台,http://saka20.local.moloapp.pw:9527/ch059/playlist.m3u8
 082
 歐洲體育台,http://saka27.local.moloapp.pw:9527/ch082/playlist.m3u8
 084
 Channel V 國際娛樂台HD,http://saka32.local.moloapp.pw:9527/ch084/playlist.m3u8
 085
 福斯HD電影台,http://saka27.local.moloapp.pw:9527/ch085/playlist.m3u8
-86
+086
 KMTV,http://saka11.local.moloapp.pw:9527/ch086/playlist.m3u8
-087
-Z頻道,http://saka21.local.moloapp.pw:9527/ch087/playlist.m3u8
-088
-CTV中國電視,https://d3jxvh16nrsf17.cloudfront.net/ch088/playlist.m3u8
 089
 好消息２台,http://saka12.local.moloapp.pw:9527/ch089/playlist.m3u8
 090
-客家電視,http://saka05.local.moloapp.pw:9527/ch090/playlist.m3u8
+民視四季台,http://saka05.local.moloapp.pw:9527/ch090/playlist.m3u8
 091
-靖天綜合台,http://saka03.local.moloapp.pw:9527/ch091/playlist.m3u8
-092
-Li時尚生活台,http://saka09.local.moloapp.pw:9527/ch092/playlist.m3u8
-093
-LUXE TV,http://saka09.local.moloapp.pw:9527/ch093/playlist.m3u8
+美食星球HD,http://saka03.local.moloapp.pw:9527/ch091/playlist.m3u8
 094
-Channel M,http://saka10.local.moloapp.pw:9527/ch094/playlist.m3u8
+MTV HD,http://saka10.local.moloapp.pw:9527/ch094/playlist.m3u8
 095
 FOXCRIME,http://saka10.local.moloapp.pw:9527/ch095/playlist.m3u8
 096
 EYE TV戲劇台,http://saka10.local.moloapp.pw:9527/ch096/playlist.m3u8
-097
-靖天日本台,http://d1bg9oa001ltk4.cloudfront.net/ch097/playlist.m3u8
 098
 龍華戲劇,http://saka21.local.moloapp.pw:9527/ch098/playlist.m3u8
 099
